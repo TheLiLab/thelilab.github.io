@@ -12,7 +12,7 @@ bigimg:
 
 ## Overview
 
-Chronic kidney disease (CKD) affects ∼10% of the population worldwide and ultimately can lead to kidney failure. <br><br>In the Li Lab at Shanghai Jiao Tong University School of Medicine, we study mechanisms of kidney fibrosis, with the goal of identifying therapeutic targets that can ameliorate kidney disease progression. We specifcally focus on kidney tubular injury and repair, metabolic dysfunction, dysregulated cell-cell communications and the underlying epigenetics during acute kidney injury (AKI)-to-CKD transition. <br><br>
+Chronic kidney disease (CKD) affects ∼10% of the population worldwide and ultimately can lead to kidney failure. <br><br>In the Li Lab at Shanghai Jiao Tong University School of Medicine, we study mechanisms of tissue fibrosis and primarily use kidney as the organ model, with the goal of identifying therapeutic targets that can ameliorate kidney disease progression. We specifcally focus on kidney tubular injury and repair, metabolic dysfunction, dysregulated cell-cell communications and the underlying epigenetics during acute kidney injury (AKI)-to-CKD transition. <br><br>
 In the past few years, we have developed or employed cutting-edge spatial and single-cell multiomics technologies to better understand these questions, including split-pool barcoding-based high-throughput single-cell sequencing (sci-RNA-seq; SHARE-seq), spatially resolved transcriptomics (DBiT-seq), epigenomics (spatial-ATAC-seq; spatial-CUT&Tag) and metabolomics (MALDI), as well as multimodal integration and analysis.
 
 ## below under construction

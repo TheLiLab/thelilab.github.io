@@ -14,40 +14,45 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Dworkin Lab website
+title: Li Lab @SJTU
 
-# Short description of your site
-description: Dworkin lab website
+# Your name to show in the footer
+author: Haikuo Li
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  People: "people"
-  Current Research: "currentResearch"
-  Publications: "pubs"
+  #About Me: "aboutme"
+  Publication: "publication"
+  Team: "team"
   Resources:
-    - google Scholar page: "https://scholar.google.com/citations?user=Iium3AEAAAAJ&hl=en"
-    - McMaster Department of Biology: "https://www.biology.mcmaster.ca/"
-    - Department website: "https://www.biology.mcmaster.ca/component/comprofiler/userprofile/dworkin.html?Itemid=351"
-    - GitHub: "https://github.com/DworkinLab"
-    - Figshare: "https://figshare.com/authors/Ian_Dworkin/446737"
-    - ORCID: "https://orcid.org/0000-0002-2874-287X"
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+    - Code: "https://github.com/HaikuoLi"
+    - About PI: "https://haikuoli.github.io/about/"
+  #Author's home: "https://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.jpg"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: false
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Ian Dworkin
-  email: "dworkin AT mcmaster DOT CA"
- # facebook: yourname  # eg. daattali
-  github: idworkin    # eg. daattali
-  twitter: IanDworkin   # eg. daattali
+  name: Haikuo Li
+  email: "haikuo.li@wustl.edu"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #facebook: deanattali
+  google-scholar: haikuo li
+  ORCID: 0000-0003-3697-5662
+  twitter: haikuoli
+  github: thelilab
  #  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
  # linkedin: Nicholas Testa  # eg. daattali https://www.linkedin.com/in/nicholas-testa-49272936
  # xing: yourname      # eg. daattali
@@ -61,11 +66,11 @@ author:
 footer-links-active:
   rss: true
   facebook: false
-  email: false
+  email: true
   twitter: true
-  google-plus: false
+  google-plus: true
   github: true
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
@@ -77,8 +82,8 @@ footer-links-active:
 share-links-active:
   twitter: true
   facebook: false
-  google: false
-  linkedin: false
+  google: true
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

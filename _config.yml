@@ -24,6 +24,7 @@ author: Haikuo Li
 # List of links in the navigation bar
 navbar-links:
   #About Me: "aboutme"
+  Research: "research"
   Publication: "publication"
   Team: "team"
   Resources:

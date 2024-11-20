@@ -1,18 +1,21 @@
 ---
 layout: page
-title: Current Research
+title: Research Aims
 bigimg:
 
- - "/img/research/Background_integrative.png" : "Genetic Background Effects"
- - "/img/research/KP2023_blur.png" : "Effects of artificial selection on shape"
- - "/img/research/Spidernom.png" : "Predation of Drosophila by a jumping spider"
- - "/img/coverphotos/wingtile.png" : "diversity in Drosophila wing size and shape"
+ - "/img/coverphotos/share-seq-umap.png" : "人类肾脏结构的单细胞多组学图谱 (Cell Metabolism 2024)"
+ - "/img/coverphotos/kidney-maldi.jpg" : "人类肾脏结构的空间代谢组 (Cell Metabolism 2024)"
+ - "/img/coverphotos/sci-seq-injury.png" : "肾小管损伤细胞态 (Cell Metabolism 2022；左图被选为NIDDK annual report唯一插图)"
+ - "/img/coverphotos/sci-seq-plin2.jpg" : "PLIN2是一类损伤型肾小管细胞态的脂滴标志物 (Cell Metabolism 2022)"
+ - "/img/coverphotos/kidney-hic-cutrun.png" : "人类肾脏的三维基因组和表观遗传组 (Scientific Data 2022)"
 ---
 
 ## Overview
 
-At one level, evolution is remarkably simple, with just a few concepts – mutation, recombination, random drift and natural selection – that underlie the overall process.  Yet this description obscures many issues that make evolution a fascinating area for study.  Evolution typically involves many genes and often revolves around interactions between individuals and their environments.  Moreover, genes interact with one another and with the environment in a nonlinear fashion, resulting in complex phenotypes and evolutionary dynamics.  Our work aims to describe and analyze such interactions with experimental and quantitative rigour. Specifically work in my lab aims to address the fundamental question about the mechanistic basis of observed phenotypic variation. That is, how genetic (and environmental) variation modulate developmental processes and ultimately influence phenotypic outcomes. Our research employs genetic and genomic approaches to address these issues, largely using *Drosophila* (fruit flies) as a model system.  Most labs that work with *Drosophila* study either individual mutations of large effect (such as those that completely knock out a particular function) or subtle quantitative variation (rarely identifying specific genes).  We employ both of these empirical approaches in conjunction with our genomic analyses to help relate our understanding from developmental genetics with the natural variation observed in populations. In the sections that follow, I summarize our findings and future directions for several projects conducted in my laboratory.
+Chronic kidney disease (CKD) affects ∼10% of the population worldwide and ultimately can lead to kidney failure. <br><br>In the Li Lab at Shanghai Jiao Tong University School of Medicine, we study mechanisms of kidney fibrosis, with the goal of identifying therapeutic targets that can ameliorate kidney disease progression. We specifcally focus on kidney tubular injury and repair, metabolic dysfunction, dysregulated cell-cell communications and the underlying epigenetics during acute kidney injury (AKI)-to-CKD transition. <br><br>
+In the past few years, we have developed or employed cutting-edge spatial and single-cell multiomics technologies to better understand these questions, including split-pool barcoding-based high-throughput single-cell sequencing (sci-RNA-seq; SHARE-seq), spatially resolved transcriptomics (DBiT-seq), epigenomics (spatial-ATAC-seq; spatial-CUT&Tag) and metabolomics (MALDI), as well as multimodal integration and analysis.
 
+#below under construction
 
 ## Functional genetic and genomic approaches for the analyses of conditional effects of mutations.
 

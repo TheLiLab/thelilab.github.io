@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab Members
+title: We are recruiting
 bigimg:
 
 - "/img/coverphotos/team.png"

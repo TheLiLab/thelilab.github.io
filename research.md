@@ -3,12 +3,12 @@ layout: page
 title: Current Research
 bigimg:
 
- - "/img/coverphotos/share-seq-umap.jpg" : "人类肾脏结构的单细胞多组学图谱"
- - "/img/coverphotos/kidney-region.jpg" : "人类肾脏的区域结构特征"
- - "/img/coverphotos/sci-seq-monocle.jpg" : "肾小管损伤细胞态和细胞命运"
- - "/img/coverphotos/sci-seq-plin2.jpg" : "PLIN2是一类损伤型肾小管细胞态的脂滴标志物"
- - "/img/coverphotos/sci-seq-lipid.jpg" : "脂质聚集是肾小管损伤早期特征"
- - "/img/coverphotos/kidney-hic-cutrun.jpg" : "人类肾脏的三维基因组和表观遗传组"
+ - "/img/coverphotos/share-seq-umap.jpg" : "人类肾脏结构的单细胞多组学图谱 Single-cell multimodal atlas for human kidneys (Cell Metabolism 2024)"
+ - "/img/coverphotos/kidney-region.jpg" : "人类肾脏的区域结构特征 Regional difference across the human kidney anatomy (Cell Metabolism 2024)"
+ - "/img/coverphotos/sci-seq-monocle.jpg" : "肾小管损伤细胞态和细胞命运 Injured cell states of the renal tubule and cell fate commitment (Cell Metabolism 2022)"
+ - "/img/coverphotos/sci-seq-plin2.jpg" : "PLIN2是一类损伤型肾小管细胞态的脂滴标志物 PLIN2 is a lipid droplet marker in Type 1 Injured PT cells (Cell Metabolism 2022)"
+ - "/img/coverphotos/sci-seq-lipid.jpg" : "脂质聚集是肾脏损伤和纤维化早期的代谢特征 Lipid accumulation in the acute phase of kidney injury (Cell Metabolism 2022)"
+ - "/img/coverphotos/kidney-hic-cutrun.jpg" : "人类肾脏的三维基因组和表观遗传组 The 3D genomics and epigenomics of the human kidney (Scientific Data 2024)"
 ---
 
 ## Overview

@@ -25,10 +25,11 @@ author: Haikuo Li
 navbar-links:
   #About Me: "aboutme"
   Research: "research"
-  Publications: "https://scholar.google.com/citations?user=6EkjrvkAAAAJ&hl=en&oi=ao"
   Team: "team"
+  Publications: "https://scholar.google.com/citations?user=6EkjrvkAAAAJ&hl=en&oi=ao"
   Resources:
     - Code: "https://github.com/HaikuoLi"
+    - Omics protocols & informatics: "omics_method"
     - ORCID: "https://orcid.org/0000-0003-3697-5662"
     - About PI: "https://haikuoli.github.io/about/"
 

@@ -25,13 +25,13 @@ author: Haikuo Li
 navbar-links:
   #About Me: "aboutme"
   Research: "research"
-  Publication: "publication"
+  Publication: "https://scholar.google.com/citations?user=6EkjrvkAAAAJ&hl=en&oi=ao"
   Team: "team"
   Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
     - Code: "https://github.com/HaikuoLi"
-    - Google scholar: "https://scholar.google.com/citations?user=6EkjrvkAAAAJ&hl=en&oi=ao"
+    - ORCID: "https://orcid.org/0000-0003-3697-5662"
     - About PI: "https://haikuoli.github.io/about/"
   #Author's home: "https://deanattali.com"
 

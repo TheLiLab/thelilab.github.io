@@ -15,13 +15,14 @@ bigimg:
 
 Chronic kidney disease (CKD) affects ∼10% of the population worldwide and ultimately can lead to kidney failure. <br><br>In the Li Lab at Shanghai Jiao Tong University School of Medicine, we study mechanisms of tissue fibrosis and primarily use kidney as the organ model, with the goal of identifying therapeutic targets that can ameliorate kidney disease progression. We specifcally focus on kidney tubular injury and repair, metabolic dysfunction, dysregulated cell-cell communications and the underlying epigenetics during acute kidney injury (AKI)-to-CKD transition. <br><br>
 In the past few years, we have developed or employed cutting-edge spatial and single-cell multiomics technologies to better understand these questions, including split-pool barcoding-based high-throughput single-cell sequencing (sci-RNA-seq; SHARE-seq), spatially resolved transcriptomics (DBiT-seq), epigenomics (spatial-ATAC-seq; spatial-CUT&Tag) and metabolomics (MALDI), as well as multimodal integration and analysis.
+<br><br><br>
 
+研究内容纲要如下，团队已制定明确的研究计划并已经产生了极具潜力的前期数据，欢迎有兴趣者进一步交流细节和方法。<br>
+### 1）肾脏纤维化中的损伤型细胞态多样性<br>
 
-## 肾脏纤维化中的损伤型细胞态多样性
+### 2）人类肾脏疾病的异质性和临床靶点<br>
 
-## 人类肾脏疾病的异质性和临床靶点
+### 3）肾脏损伤修复中的表观遗传驱动因子<br>
 
-## 肾脏损伤修复中的表观遗传驱动因子
-
-## 新型高通量单细胞和空间多组学技术的开发和应用
+### 4）新型高通量单细胞和空间多组学技术的开发和应用<br>
 

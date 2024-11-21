@@ -4,6 +4,7 @@ title: We are recruiting
 bigimg:
 
 - "/img/coverphotos/team.png"
+- "/img/path.jpg"
 
 ---
 

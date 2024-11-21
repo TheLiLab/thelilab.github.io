@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Research Aims
+title: Current Research
 bigimg:
 
- - "/img/coverphotos/share-seq-umap.png" : "人类肾脏结构的单细胞多组学图谱 (Cell Metabolism 2024)"
- - "/img/coverphotos/kidney-maldi.jpg" : "人类肾脏结构的空间代谢组 (Cell Metabolism 2024)"
- - "/img/coverphotos/sci-seq-injury.png" : "肾小管损伤细胞态 (Cell Metabolism 2022；左图被选为NIDDK annual report唯一插图)"
- - "/img/coverphotos/sci-seq-plin2.jpg" : "PLIN2是一类损伤型肾小管细胞态的脂滴标志物 (Cell Metabolism 2022)"
- - "/img/coverphotos/kidney-hic-cutrun.png" : "人类肾脏的三维基因组和表观遗传组 (Scientific Data 2022)"
+ - "/img/coverphotos/share-seq-umap.png" : "人类肾脏结构的单细胞多组学图谱"
+ - "/img/coverphotos/kidney-region.png" : "人类肾脏的区域结构特征"
+ - "/img/coverphotos/sci-seq-monocle.png" : "肾小管损伤细胞态和细胞命运"
+ - "/img/coverphotos/sci-seq-plin2.jpg" : "PLIN2是一类损伤型肾小管细胞态的脂滴标志物"
+ - "/img/coverphotos/sci-seq-lipid.png" : "脂质聚集是肾小管损伤早期特征"
+ - "/img/coverphotos/kidney-hic-cutrun.png" : "人类肾脏的三维基因组和表观遗传组"
 ---
 
 ## Overview

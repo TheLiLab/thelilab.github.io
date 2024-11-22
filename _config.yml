@@ -26,7 +26,7 @@ navbar-links:
   #About Me: "aboutme"
   Research: "research"
   Team: "team"
-  Publications: "https://www.ncbi.nlm.nih.gov/myncbi/haikuo.li.1/bibliography/public/"
+  Publications: "publication"
   Resources:
     - Code: "https://github.com/HaikuoLi"
     - Omics protocols & informatics: "omics_method"

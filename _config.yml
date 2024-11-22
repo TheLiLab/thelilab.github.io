@@ -31,7 +31,8 @@ navbar-links:
     - Code: "https://github.com/HaikuoLi"
     - Omics protocols & informatics: "omics_method"
     - Google scholar: "https://scholar.google.com/citations?user=6EkjrvkAAAAJ&hl=en&oi=ao"
-    - About PI: "https://haikuoli.github.io/about/"
+    - SJTU: "https://en.sjtu.edu.cn/"
+    #- About PI: "https://haikuoli.github.io/about/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

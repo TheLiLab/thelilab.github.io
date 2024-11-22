@@ -15,8 +15,8 @@ bigimg:
 
 [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/haikuo.li.1/bibliography/public/)
 
-##
-### Selected Publications
+
+## Selected Publications
 
 
 Pelletier, K.,Bilodeau, M., Pellizzari-Delano,I., Siemon, M.D., Huang, Y., Pool, J.E. & Dworkin, I. Polygenic architecture of adaptation to a high-altitude environment for *Drosophila melanogaster* wing shape and size. [Preprint](https://www.biorxiv.org/content/10.1101/2024.02.08.579525v1.abstract)
@@ -49,8 +49,8 @@ Chandler, C.H., Mammel, A. & Dworkin, I. (2020). Sexual selection does not incre
 Pesevski, M. & Dworkin, I. (2020). Genetic and environmental canalization are not associated among altitudinally varying populations of *Drosophila melanogaster*. Evolution. [link to paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.14039) \| [PDF](\pdf\PesevskiDworkin2020_evo.14039.pdf) \| [link to pre-print](https://www.biorxiv.org/content/10.1101/715649v2) \| [data and scripts on github](https://github.com/DworkinLab/PesevskiDworkin_Evolution_2020) \| [data and scripts on DRYAD with doi](https://doi.org/10.5061/dryad.b8gtht79c) \| [raw images on Figshare](https://figshare.com/articles/Drosophila_melanogaster_African_Wings/1449060).
 
 Wagner, A.P. Zaman, L., Dworkin, I. & Ofria, C. (2020). Behavioral Strategy chases Promote the Evolution of Prey Intelligence. In Press. In Evolution in Action – Past, Present and Future. Lenski, R. & Banzhaf, W. editors. Springer. [PDF](/pdf/Wagner-etal-revised_2020.pdf).
-## 
-### All Publications
+
+## All Publications
 Frankino, W.A., Bakota, E., Dworkin, I., Wilkinson, G.S., Wolf, J.B. & Shingleton, A.S. (2019). Individual cryptic scaling relationships and the evolution of animal form. Integrative and Comparative Biology. [link](https://doi.org/10.1093/icb/icz135). \| [PDF](/pdf/Frankino_etal_2019.pdf) \| [data](https://doi.org/10.5061/dryad.f8320d5).
 
 Cevik, D., Acker, M., Arefi, P., Ghaemi, R., Zhang, J., Selvaganapathy, P.R., Dworkin, I. & Jacobs, J.R., (2019). Chloroform and Desflurane Immobilization with Recovery of Viable *Drosophila* Larvae for Confocal Imaging. J. Insect physiology, p.103900. [link](https://doi.org/10.1016/j.jinsphys.2019.103900).

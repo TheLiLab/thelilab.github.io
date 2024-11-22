@@ -28,7 +28,7 @@ navbar-links:
   Team: "team"
   Publications: "pubs"
   Resources:
-    - Code: "https://github.com/HaikuoLi"
+    - GitHub: "https://github.com/HaikuoLi"
     - Omics protocols & informatics: "omics_method"
     - Shanghai Jiao Tong Uni: "https://en.sjtu.edu.cn/"
     - Medical School: "https://www.shsmu.edu.cn/english/"

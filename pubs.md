@@ -50,6 +50,7 @@ Pesevski, M. & Dworkin, I. (2020). Genetic and environmental canalization are no
 
 Wagner, A.P. Zaman, L., Dworkin, I. & Ofria, C. (2020). Behavioral Strategy chases Promote the Evolution of Prey Intelligence. In Press. In Evolution in Action – Past, Present and Future. Lenski, R. & Banzhaf, W. editors. Springer. [PDF](/pdf/Wagner-etal-revised_2020.pdf).
 
+<br>
 <hr>
 ## All Publications
 Frankino, W.A., Bakota, E., Dworkin, I., Wilkinson, G.S., Wolf, J.B. & Shingleton, A.S. (2019). Individual cryptic scaling relationships and the evolution of animal form. Integrative and Comparative Biology. [link](https://doi.org/10.1093/icb/icz135). \| [PDF](/pdf/Frankino_etal_2019.pdf) \| [data](https://doi.org/10.5061/dryad.f8320d5).

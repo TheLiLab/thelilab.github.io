@@ -5,7 +5,7 @@ bigimg:
 
  - "/img/coverphotos/share-seq-umap.jpg" : "人类肾脏结构的单细胞多组学图谱 Single-cell multimodal atlas for human kidneys (Cell Metabolism 2024)"
  - "/img/coverphotos/kidney-region.jpg" : "人类肾脏的区域结构特征 Regional difference across the human kidney anatomy (Cell Metabolism 2024)"
- - "/img/coverphotos/sci-seq-monocle.jpg" : "肾小管损伤细胞态和细胞命运 Injured cell states of the renal tubule and cell fate commitment (Cell Metabolism 2022)"
+ - "/img/coverphotos/sci-seq-monocle.jpg" : "近端小管损伤型细胞态和细胞命运 Injured cell states of the renal tubule and cell fate commitment (Cell Metabolism 2022)"
  - "/img/coverphotos/sci-seq-plin2.jpg" : "PLIN2是一类损伤型肾小管细胞态的脂滴标志物 PLIN2 is a lipid droplet marker in Type 1 Injured PT cells (Cell Metabolism 2022)"
  - "/img/coverphotos/sci-seq-lipid.jpg" : "脂质聚集是肾脏损伤和纤维化早期的代谢特征 Lipid accumulation in the acute phase of kidney injury (Cell Metabolism 2022)"
  - "/img/coverphotos/kidney-hic-cutrun.jpg" : "人类肾脏的三维基因组和表观遗传组 The 3D genomics and epigenomics of the human kidney (Scientific Data 2024)"
@@ -18,11 +18,12 @@ In the past few years, we have developed or employed cutting-edge spatial and si
 <br><br><br>
 
 研究内容纲要如下，团队已制定明确的研究计划并已经产生了极具潜力的前期数据，欢迎有兴趣者进一步交流细节和方法。<br>
-### 1）肾脏纤维化中的损伤型细胞态多样性<br>
+### 1）肾脏纤维化中的损伤型细胞态多样性和代谢调控<br>
 
-### 2）人类肾脏疾病的异质性和临床靶点<br>
+### 2）人类肾脏疾病的异质性、细胞态功能差异和临床靶点<br>
 
-### 3）肾脏损伤修复中的表观遗传驱动因子<br>
+### 3）肾脏组织损伤修复中的表观遗传驱动因子和分子机制<br>
 
 ### 4）新型高通量单细胞和空间多组学技术的开发和应用<br>
 
+### 5）单细胞和空间组学数据分析和挖掘工具的开发和应用<br>

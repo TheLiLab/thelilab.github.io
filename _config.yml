@@ -26,7 +26,7 @@ navbar-links:
   #About Me: "aboutme"
   Research: "research"
   Team: "team"
-  Publications: "publication"
+  Publications: "pubs"
   Resources:
     - Code: "https://github.com/HaikuoLi"
     - Omics protocols & informatics: "omics_method"

@@ -28,7 +28,7 @@ bigimg:
 →	Research Highlights by <i>Kidney International</i> ([link](https://doi.org/10.1016/j.kint.2023.02.005))
 <br>
 
-<strong><u>Li, H.#</u></strong>, Li, D.# and Humphreys, B.D., 2024. Chromatin conformation and histone modification profiling across human kidney anatomic regions. <strong><u>Scientific Data</u></strong>, 11(1), p.797. ([DOI](https://doi.org/10.1038/s41597-024-03648-8))<br>
+<strong><u>Li, H.</u></strong>#, Li, D.# and Humphreys, B.D., 2024. Chromatin conformation and histone modification profiling across human kidney anatomic regions. <strong><u>Scientific Data</u></strong>, 11(1), p.797. ([DOI](https://doi.org/10.1038/s41597-024-03648-8))<br>
 →	Highlighted in the collection of <i>Data for epigenetics research</i> ([link](https://www.nature.com/collections/fehdjjbjce))
 <br>
 
@@ -49,7 +49,7 @@ bigimg:
 (16) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2024. Protocol for multimodal profiling of human kidneys with simultaneous high-throughput ATAC and RNA expression with sequencing. <strong><u>STAR Protocols</u></strong>, 5(3), p.103049. ([DOI](https://doi.org/10.1016/j.xpro.2024.103049))
 <br>
 
-(15) <strong><u>Li, H.#</u></strong>, Li, D.# and Humphreys, B.D., 2024. Chromatin conformation and histone modification profiling across human kidney anatomic regions. <strong><u>Scientific Data</u></strong>, 11(1), p.797. ([DOI](https://doi.org/10.1038/s41597-024-03648-8))<br>
+(15) <strong><u>Li, H.</u></strong>#, Li, D.# and Humphreys, B.D., 2024. Chromatin conformation and histone modification profiling across human kidney anatomic regions. <strong><u>Scientific Data</u></strong>, 11(1), p.797. ([DOI](https://doi.org/10.1038/s41597-024-03648-8))<br>
 →	Highlighted in the collection of <i>Data for epigenetics research</i> ([link](https://www.nature.com/collections/fehdjjbjce))
 <br>
 

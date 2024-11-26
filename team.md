@@ -3,7 +3,6 @@ layout: page
 title: We are recruiting
 bigimg:
 
-- "/img/coverphotos/team.jpg"
 - "/img/path.jpg"
 
 ---

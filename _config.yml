@@ -26,6 +26,7 @@ navbar-links:
   #About Me: "aboutme"
   Research: "research"
   Join us: "joinus"
+  Team: "team"
   Publications: "pubs"
   Resources:
     - GitHub: "https://github.com/HaikuoLi"

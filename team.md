@@ -8,13 +8,16 @@ bigimg:
 ---
 
 
-<div style="overflow: auto;">
-  <div style="float: left; width: 25%; margin-right: 20px;">
-    <img src="/img/peopleimg/haikuoli.jpg" style="width: 100%; max-width: 200px;" /><br>
+<div style="display: flex; align-items: flex-start; font-size: 18px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/img/peopleimg/haikuoli.jpg" style="width: 100%; max-width: 200px;" />
   </div>
-  <div style="float: right; width: 75%; padding-right: 20px; font-size: 20px;">
-    <strong>李海廓</strong><br><br>
-    <span style="font-size: 16px;">个人简介</span><br><br>
+  <div style="flex-grow: 1;">
+    <strong>李海廓</strong><br>
+    <span style="font-size: 16px;">
+      PI<br>
+      本科就读于上海交通大学生物科学专业（致远荣誉计划），于美国圣路易斯华盛顿大学取得基因组和遗传学博士学位
+    </span><br><br>
   </div>
 </div>
 

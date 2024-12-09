@@ -20,7 +20,7 @@ bigimg:
 
 <strong><u>Li, H.</u></strong>, Li, D., Ledru, N., Xuanyuan, Q., Wu, H., Asthana, A., Byers, L.N., Tullius, S.G., Orlando, G., Waikar, S.S. and Humphreys, B.D., 2024. Transcriptomic, epigenomic, and spatial metabolomic cell profiling redefines regional human kidney anatomy. <strong><u>Cell Metabolism</u></strong>, 36(5), pp.1105-1125. ([DOI](https://doi.org/10.1016/j.cmet.2024.02.015))<br>
 →	Featured Content of the <i>Cell Metabolism</i> journal website<br>
-→	中文媒体报道 ([BioArt](https://mp.weixin.qq.com/s/EZZC0j3wezH26dazQr_swQ); [求知生物](https://mp.weixin.qq.com/s/jdNkc0TlyETwB1TnJLkj0w); [知乎](https://zhuanlan.zhihu.com/p/699684001))
+→	中文媒体报道 ([BioArt](https://mp.weixin.qq.com/s/EZZC0j3wezH26dazQr_swQ); [求知生物](https://mp.weixin.qq.com/s/jdNkc0TlyETwB1TnJLkj0w); [迈维代谢](https://mp.weixin.qq.com/s/um9sJmHkBxpMUosJSsiNpg))
 <br>
 
 <strong><u>Li, H.</u></strong>, Dixon, E.E., Wu, H. and Humphreys, B.D., 2022. Comprehensive single-cell transcriptional profiling defines shared and unique epithelial injury responses during kidney fibrosis. <strong><u>Cell Metabolism</u></strong>, 34(12), pp.1977-1998. ([DOI](https://doi.org/10.1016/j.cmet.2022.09.026))<br>

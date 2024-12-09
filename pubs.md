@@ -101,7 +101,7 @@ bigimg:
 
 (3) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2022. New functions for basophils identified in kidney fibrosis. <strong><u>Nature Immunology</u></strong>, 23(6), pp.824-825. ([DOI](https://doi.org/10.1038/s41590-022-01221-2))
 <br>
-→	中文媒体报道 ([Kidney First](https://mp.weixin.qq.com/s/jFjeN07CrdPkRSjq42L2Lg))
+→	中文媒体报道 ([公众号](https://mp.weixin.qq.com/s/jFjeN07CrdPkRSjq42L2Lg))
 
 (2) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2021. Single cell technologies: Beyond microfluidics. <strong><u>Kidney360</u></strong>, 2(7), pp.1196-1204. ([DOI](https://doi.org/10.34067/KID.0001822021))
 <br>

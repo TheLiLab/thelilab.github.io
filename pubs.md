@@ -45,7 +45,7 @@ bigimg:
 (19) Baysoy, A.#, Tian, X.#, Zhang, F.#, Renauer, P.#, Bai, Z., Shi, H., <strong><u>Li, H.</u></strong>, Tao, B., Yang, M., Enninful, A. and Gao, F., 2024. Spatially Resolved in vivo CRISPR Screen Sequencing via Perturb-DBiT. <strong><u>BioRxiv</u></strong>, pp.2024-11.
 <br>
 
-(18) Bai, Z.#, Zhang, D.#, Gao, Y.#, Tao, B.#, Zhang, D.#, Bao, S.#, Enninful, A., Wang, Y., <strong><u>Li, H.</u></strong>, Su, G. and Tian, X., Zhang, N., Xiao, Y., Liu, Y., Gerstein, M., Li, M., Xing, Y., Lu, J., Xu, ML. and Fan, R. 2024. Spatially exploring RNA biology in archival formalin-fixed paraffin-embedded tissues. <strong><u>Cell</u></strong> ([DOI](https://doi.org/10.1016/j.cell.2024.09.001))
+(18) Bai, Z.#, Zhang, D.#, Gao, Y.#, Tao, B.#, Zhang, D.#, Bao, S.#, Enninful, A., Wang, Y., <strong><u>Li, H.</u></strong>, Su, G. and Tian, X., Zhang, N., Xiao, Y., Liu, Y., Gerstein, M., Li, M., Xing, Y., Lu, J., Xu, ML. and Fan, R. 2024. Spatially exploring RNA biology in archival formalin-fixed paraffin-embedded tissues. <strong><u>Cell</u></strong>, 187(23), pp.6760-6779. ([DOI](https://doi.org/10.1016/j.cell.2024.09.001))
 <br>
 
 (17) Zhao, C.#, Rong, K.#, Liu, P.#, Kong, K., <strong><u>Li, H.</u></strong>, Zhang, P., Chen, X., Fu, Q. and Wang, X., 2024. Preventing periprosthetic osteolysis in aging populations through lymphatic activation and stem cell-associated secretory phenotype inhibition. <strong><u>Communications Biology</u></strong>, 7(1), p.962. ([DOI](https://doi.org/10.1038/s42003-024-06664-x))

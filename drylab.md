@@ -12,3 +12,5 @@ bigimg:
 
 ### Kidney omics data visualizer
 [K.I.T by Humphreys Lab](https://humphreyslab.com/SingleCell/)<br>
+<hr>
+

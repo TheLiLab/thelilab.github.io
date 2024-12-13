@@ -12,9 +12,9 @@ bigimg:
 ### About the kidney
 [Kidney histology](https://histology.siu.edu/crr/rnguide.htm)<br>
 [Learn kidney histology online](https://histology.medicine.umich.edu/resources/renal-system-quiz-5-0)<br>
-[kidney biopsy of the month](https://www.renalfellow.org/category/kidney-biopsy-of-the-month/)<br>
-[Mouse kidney UUO surgery](https://app.jove.com/v/52559/a-murine-model-irreversible-reversible-unilateral-ureteric)<br>
-Mouse kidney IRI surgery: [Dorsal](https://app.jove.com/v/52559/a-murine-model-irreversible-reversible-unilateral-ureteric), [Ventral](https://app.jove.com/v/51816/renal-ischaemia-reperfusion-injury-mouse-model-injury)<br>
+[kidney biopsy of the month: histology and pathology](https://www.renalfellow.org/category/kidney-biopsy-of-the-month/)<br>
+[Mouse kidney UUO surgery (JOVE)](https://app.jove.com/v/52559/a-murine-model-irreversible-reversible-unilateral-ureteric)<br>
+Mouse kidney IRI surgery (JOVE): [Dorsal](https://app.jove.com/v/52559/a-murine-model-irreversible-reversible-unilateral-ureteric), [Ventral](https://app.jove.com/v/51816/renal-ischaemia-reperfusion-injury-mouse-model-injury)<br>
 <hr>
 
 ### Kidney nuclear isolation
@@ -54,9 +54,9 @@ Video illustration of Sequencing by Synthesis (边合成边测序): [English](ht
 [Basics of Tn5](https://doi.org/10.1101/gr.275223.121)<br>
 [Video: A gentle introduction to RNA-seq](https://www.youtube.com/watch?v=fCd6B5HRaZ8)<br>
 [Single Cell Genomics Library Structure](https://teichlab.github.io/scg_lib_structs/)<br>
-[Single Cell Genomics Day](https://satijalab.org/scgd24/)<br>
+[Single Cell Genomics Day (Satija Lab)](https://satijalab.org/scgd24/)<br>
 [Gene/Protein Nomenclature Requirements](https://academic.oup.com/molehr/pages/Gene_And_Protein_Nomenclature)<br>
-[Progress in science depends on new techniques, new discoveries and new ideas, probably in that order. - Sydney Brenner](https://www.nature.com/articles/285358a0)<br>
+[_Progress in science depends on new techniques, new discoveries and new ideas, probably in that order._ - Sydney Brenner](https://www.nature.com/articles/285358a0)<br>
 [Principles of Research address by Albert Einstein (1918)](https://www.site.uottawa.ca/~yymao/misc/Einstein_PlanckBirthday.html)<br>
 
 <br>

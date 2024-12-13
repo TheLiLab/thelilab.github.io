@@ -9,3 +9,6 @@ bigimg:
 
 
 [Github](https://github.com/HaikuoLi)
+
+### Kidney omics data visualizer
+[K.I.T by Humphreys Lab](https://humphreyslab.com/SingleCell/)<br>

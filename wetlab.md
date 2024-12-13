@@ -6,10 +6,7 @@ bigimg:
 
 ---
 
-### Common wet lab techniques
-<hr>
-
-### About the kidney
+### The kidney
 [Kidney histology](https://histology.siu.edu/crr/rnguide.htm)<br>
 [Learn kidney histology online](https://histology.medicine.umich.edu/resources/renal-system-quiz-5-0)<br>
 [kidney biopsy of the month: histology and pathology](https://www.renalfellow.org/category/kidney-biopsy-of-the-month/)<br>

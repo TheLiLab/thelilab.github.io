@@ -2,7 +2,7 @@
 layout: page
 title: Wet Lab
 bigimg:
- - "/img/coverphotos/aminoacid.png"
+ - "/img/coverphotos/aminoacid.jpg"
 
 ---
 

@@ -22,6 +22,14 @@ bigimg:
 [protocols.io](https://www.protocols.io/view/nuclei-isolation-from-human-kidney-for-single-nucl-81wgbobnlpko/v1)<br>
 <hr>
 
+### Spatial multiomics sequencing
+[DBiT-seq (spatial-RNA-seq)](https://doi.org/10.1016/j.cell.2020.10.026)<br>
+[Spatial-ATAC-seq](https://doi.org/10.1038/s41586-022-05094-1)<br>
+[Spatial-CUT&Tag](https://doi.org/10.1126/science.abg7216)<br>
+[Spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq]()<br>
+[Patho-DBiT (spatial-RNA-seq in FFPE)](https://doi.org/10.1016/j.cell.2024.09.001)<br>
+<hr>
+
 ### About Illlumina next-generation sequencing
 Video illustration of Sequencing by Synthesis (边合成边测序): [English](https://www.youtube.com/watch?v=fCd6B5HRaZ8); [中文](https://www.bilibili.com/video/BV1W44y1373N/?spm_id_from=333.337.search-card.all.click&vd_source=4bb94a4fe4816451654e056a90253e89)<br>
 [Details](https://teichlab.github.io/scg_lib_structs/methods_html/Illumina.html)<br>
@@ -31,12 +39,12 @@ Video illustration of Sequencing by Synthesis (边合成边测序): [English](ht
 ### Useful online resources
 [Molarity calculator](https://www.endmemo.com/chem/molarity.php)<br>
 [Reverse complement generator](https://www.bioinformatics.org/sms/rev_comp.html)<br>
-[Basics of Tn5]()<br>
+[Basics of Tn5](https://doi.org/10.1101/gr.275223.121)<br>
 [Video: A gentle introduction to RNA-seq](https://www.youtube.com/watch?v=fCd6B5HRaZ8)<br>
 [Single Cell Genomics Library Structure](https://teichlab.github.io/scg_lib_structs/)<br>
 [Single Cell Genomics Day](https://satijalab.org/scgd24/)<br>
 [Gene/Protein Nomenclature Requirements](https://academic.oup.com/molehr/pages/Gene_And_Protein_Nomenclature)<br>
 [Progress in science depends on new techniques, new discoveries and new ideas, probably in that order. - Sydney Brenner](https://www.nature.com/articles/285358a0)<br>
-[Principles of Research address by Albert Einstein (1918) 爱因斯坦谈科研](https://www.site.uottawa.ca/~yymao/misc/Einstein_PlanckBirthday.html)<br>
+[Principles of Research address by Albert Einstein (1918)](https://www.site.uottawa.ca/~yymao/misc/Einstein_PlanckBirthday.html)<br>
 
 <br>

@@ -6,6 +6,23 @@ bigimg:
 
 ---
 
+### Common wet lab techniques
+<hr>
+
+### About the kidney
+[Kidney histology](https://histology.siu.edu/crr/rnguide.htm)<br>
+[Learn kidney histology online](https://histology.medicine.umich.edu/resources/renal-system-quiz-5-0)<br>
+[kidney biopsy of the month](https://www.renalfellow.org/category/kidney-biopsy-of-the-month/)<br>
+[Mouse kidney UUO surgery](https://app.jove.com/v/52559/a-murine-model-irreversible-reversible-unilateral-ureteric)<br>
+Mouse kidney IRI surgery: [Dorsal](https://app.jove.com/v/52559/a-murine-model-irreversible-reversible-unilateral-ureteric), [Ventral](https://app.jove.com/v/51816/renal-ischaemia-reperfusion-injury-mouse-model-injury)<br>
+<hr>
+
+### Kidney nuclear isolation
+[Mouse](https://doi.org/10.1016/j.xpro.2022.101904)<br>
+[Human](https://doi.org/10.1016/j.xpro.2024.103049)<br>
+[protocols.io](https://www.protocols.io/view/nuclei-isolation-from-human-kidney-for-single-nucl-81wgbobnlpko/v1)<br>
+<hr>
+
 ### sci-RNA-seq3
 [STAR Protocols](https://doi.org/10.1016/j.xpro.2022.101904)<br>
 [Library structure](https://teichlab.github.io/scg_lib_structs/methods_html/sci-RNA-seq_family.html#sci-RNA-seq3)<br>
@@ -14,12 +31,6 @@ bigimg:
 ### SHARE-seq
 [STAR Protocols](https://doi.org/10.1016/j.xpro.2024.103049)<br>
 [Library structure](https://teichlab.github.io/scg_lib_structs/methods_html/SHARE-seq.html)<br>
-<hr>
-
-### Kidney nuclear isolation
-[Mouse](https://doi.org/10.1016/j.xpro.2022.101904)<br>
-[Human](https://doi.org/10.1016/j.xpro.2024.103049)<br>
-[protocols.io](https://www.protocols.io/view/nuclei-isolation-from-human-kidney-for-single-nucl-81wgbobnlpko/v1)<br>
 <hr>
 
 ### Spatial multiomics sequencing

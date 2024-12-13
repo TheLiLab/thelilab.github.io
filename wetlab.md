@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wet Lab
-
+bigimg:
  - "/img/coverphotos/wetlab.jpg"
 
 ---

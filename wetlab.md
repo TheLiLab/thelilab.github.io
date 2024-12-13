@@ -3,10 +3,7 @@ layout: page
 title: Publications
 bigimg:
 
- - "/img/coverphotos/share-seq-umap.jpg" : "人类肾脏结构的单细胞多组学图谱 Single-cell multimodal atlas for human kidneys (Cell Metabolism 2024)"
- - "/img/coverphotos/sci-seq-injury.jpg" : "近端小管损伤型细胞态 Injured cell states of the proximal tubule (Cell Metabolism 2022；左图被选为NIDDK年度报告唯一插图)"
- - "/img/coverphotos/sci-seq-plin2.jpg" : "PLIN2是一类损伤型肾小管细胞态的脂滴标志物 PLIN2 is a lipid droplet marker in Type 1 Injured PT cells (Cell Metabolism 2022)"
- - "/img/coverphotos/kidney-hic-cutrun.jpg" : "人类肾脏的三维基因组和表观遗传组 The 3D genomics and epigenomics of the human kidney (Scientific Data 2024)"
+ - "/img/coverphotos/wetlab.jpg"
 
 ---
 

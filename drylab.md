@@ -8,7 +8,8 @@ bigimg:
 ---
 
 
-[Github](https://github.com/HaikuoLi)
+[GitHub](https://github.com/HaikuoLi)
+<hr>
 
 ### Kidney omics data visualizer
 [K.I.T by Humphreys Lab](https://humphreyslab.com/SingleCell/)<br>

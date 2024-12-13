@@ -54,8 +54,8 @@ bigimg:
 (16) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2024. Protocol for multimodal profiling of human kidneys with simultaneous high-throughput ATAC and RNA expression with sequencing. <strong><u>STAR Protocols</u></strong>, 5(3), p.103049. ([DOI](https://doi.org/10.1016/j.xpro.2024.103049))
 <br>
 
-(15) <strong><u>Li, H.</u></strong>#, Li, D.# and Humphreys, B.D., 2024. Chromatin conformation and histone modification profiling across human kidney anatomic regions. <strong><u>Scientific Data</u></strong>, 11(1), p.797. ([DOI](https://doi.org/10.1038/s41597-024-03648-8))<br>
-→	Highlighted in the collection of <i>Data for epigenetics research</i> ([link](https://www.nature.com/collections/fehdjjbjce))
+(15) <strong><u>Li, H.</u></strong>#, Li, D.# and Humphreys, B.D., 2024. Chromatin conformation and histone modification profiling across human kidney anatomic regions. <strong><u>Scientific Data</u></strong>, 11(1), p.797. (<a href="https://doi.org/10.1038/s41597-024-03648-8" target="_blank">DOI</a>)<br>
+→	Highlighted in the collection of <a href="https://www.nature.com/collections/fehdjjbjce" target="_blank">Data for epigenetics research</a>
 <br>
 
 (14) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2024. Spatially resolved metabolomic dataset of distinct human kidney anatomic regions. <strong><u>Data in Brief</u></strong>, 54, p.110431. ([DOI](https://doi.org/10.1016/j.dib.2024.110431))
@@ -64,10 +64,9 @@ bigimg:
 (13) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2024. Multimodal characterization of sexual dimorphism in the mammalian kidney. <strong><u>Kidney International</u></strong>, 105(4), pp.653-655. ([DOI](https://doi.org/10.1016/j.kint.2023.11.017))
 <br>
 
-(12) <strong><u>Li, H.</u></strong>, Li, D., Ledru, N., Xuanyuan, Q., Wu, H., Asthana, A., Byers, L.N., Tullius, S.G., Orlando, G., Waikar, S.S. and Humphreys, B.D., 2024. Transcriptomic, epigenomic, and spatial metabolomic cell profiling redefines regional human kidney anatomy. <strong><u>Cell Metabolism</u></strong>, 36(5), pp.1105-1125. ([DOI](https://doi.org/10.1016/j.cmet.2024.02.015))
-<br>
+(12) <strong><u>Li, H.</u></strong>, Li, D., Ledru, N., Xuanyuan, Q., Wu, H., Asthana, A., Byers, L.N., Tullius, S.G., Orlando, G., Waikar, S.S. and Humphreys, B.D., 2024. Transcriptomic, epigenomic, and spatial metabolomic cell profiling redefines regional human kidney anatomy. <strong><u>Cell Metabolism</u></strong>, 36(5), pp.1105-1125.  (<a href="https://doi.org/10.1016/j.cmet.2024.02.015" target="_blank">DOI</a>)<br>
 →	Featured Content of the <i>Cell Metabolism</i> journal website<br>
-→	中文媒体报道 ([BioArt](https://mp.weixin.qq.com/s/EZZC0j3wezH26dazQr_swQ); [公众号1](https://mp.weixin.qq.com/s/jdNkc0TlyETwB1TnJLkj0w); [公众号2](https://mp.weixin.qq.com/s/um9sJmHkBxpMUosJSsiNpg))
+→	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/EZZC0j3wezH26dazQr_swQ" target="_blank">BioArt</a>; <a href="https://mp.weixin.qq.com/s/jdNkc0TlyETwB1TnJLkj0w" target="_blank">公众号1</a>; <a href="https://mp.weixin.qq.com/s/um9sJmHkBxpMUosJSsiNpg" target="_blank">公众号2</a>)
 <br>
 
 (11) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2024. Targeting de novo lipogenesis to mitigate kidney disease. <strong><u>The Journal of Clinical Investigation</u></strong>, 134(4). ([DOI](https://doi.org/10.1172/JCI178125))
@@ -87,12 +86,12 @@ bigimg:
 (6) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2022. Mouse kidney nuclear isolation and library preparation for single-cell combinatorial indexing RNA sequencing. <strong><u>STAR Protocols</u></strong>, 3(4), p.101904. ([DOI](https://doi.org/10.1016/j.xpro.2022.101904))
 <br>
 
-(5) <strong><u>Li, H.</u></strong>, Dixon, E.E., Wu, H. and Humphreys, B.D., 2022. Comprehensive single-cell transcriptional profiling defines shared and unique epithelial injury responses during kidney fibrosis. <strong><u>Cell Metabolism</u></strong>, 34(12), pp.1977-1998. ([DOI](https://doi.org/10.1016/j.cmet.2022.09.026))<br>
-→	Research featured by NIH NIDDK annual report ([PDF](https://www.niddk.nih.gov/-/media/Files/Strategic-Plans/2024/NIDDK_RecentAdvances_2024-KUH.pdf))<br>
-→	Research Highlights by <i>Nature Reviews Nephrology</i> ([link](https://www.nature.com/articles/s41581-022-00657-x))<br>
-→	Research Highlights by <i>Kidney International</i> ([link](https://doi.org/10.1016/j.kint.2023.02.005))<br>
-→	科技部报道 ([《科学家构建肾脏纤维化全景图谱》](https://www.most.gov.cn/ztzl/gnwkjdt/202211/t20221111_183450.html))<br>
-→	中文媒体报道 ([BioArt](https://mp.weixin.qq.com/s/1-JbkuPvXk3-Y5-cocJn3Q); [麻省理工科技评论](https://mp.weixin.qq.com/s/tRLhBHvm4BKw3VJ8IUiXuA); [I found a very nice journal club presentation of this work by the Tong Group.](https://mp.weixin.qq.com/s/2EWORGEduLyAIgaS2xlviw))
+(5) <strong><u>Li, H.</u></strong>, Dixon, E.E., Wu, H. and Humphreys, B.D., 2022. Comprehensive single-cell transcriptional profiling defines shared and unique epithelial injury responses during kidney fibrosis. <strong><u>Cell Metabolism</u></strong>, 34(12), pp.1977-1998. (<a href="https://doi.org/10.1016/j.cmet.2022.09.026" target="_blank">DOI</a>)<br>
+→	Research featured by NIH NIDDK annual report (<a href="https://www.niddk.nih.gov/-/media/Files/Strategic-Plans/2024/NIDDK_RecentAdvances_2024-KUH.pdf" target="_blank">PDF</a>)<br>
+→	Research Highlights by <i>Nature Reviews Nephrology</i> (<a href="https://www.nature.com/articles/s41581-022-00657-x" target="_blank">link</a>)<br>
+→	Research Highlights by <i>Kidney International</i> (<a href="https://doi.org/10.1016/j.kint.2023.02.005" target="_blank">DOI</a>)<br>
+→	科技部报道 (<a href="https://www.most.gov.cn/ztzl/gnwkjdt/202211/t20221111_183450.html" target="_blank">《科学家构建肾脏纤维化全景图谱》</a>)<br>
+→	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/1-JbkuPvXk3-Y5-cocJn3Q" target="_blank">BioArt</a>; <a href="https://mp.weixin.qq.com/s/tRLhBHvm4BKw3VJ8IUiXuA" target="_blank">麻省理工科技评论</a>; <a href="https://mp.weixin.qq.com/s/2EWORGEduLyAIgaS2xlviw" target="_blank">I found a very nice journal club presentation of this work by the Tong Group.</a>)
 <br>
 
 (4) Muto, Y.#, <strong><u>Li, H.</u></strong># and Humphreys, B.D., 2022. Single Cell Transcriptomics. <strong><u>Innovations in Nephrology: Breakthrough Technologies in Kidney Disease Care</u></strong> (pp. 87-102). Cham: Springer International Publishing. ([DOI](https://doi.org/10.1007/978-3-031-11570-7_5))<br>

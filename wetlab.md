@@ -51,7 +51,7 @@ Video illustration of Sequencing by Synthesis (边合成边测序): [English](ht
 [Molarity calculator](https://www.endmemo.com/chem/molarity.php)<br>
 [Reverse complement generator](https://www.bioinformatics.org/sms/rev_comp.html)<br>
 [Primer design BLAST](https://www.ncbi.nlm.nih.gov/tools/primer-blast/)<br>
-[Basics of Tn5](https://doi.org/10.1101/gr.275223.121)<br>
+[Basics of Tn5 by Dr. Adey](https://doi.org/10.1101/gr.275223.121)<br>
 [Video: A gentle introduction to RNA-seq](https://www.youtube.com/watch?v=fCd6B5HRaZ8)<br>
 [Single Cell Genomics Library Structure by Dr. Chen @sustech](https://teichlab.github.io/scg_lib_structs/)<br>
 [Single Cell Genomics Day (Satija Lab)](https://satijalab.org/scgd24/)<br>

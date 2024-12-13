@@ -11,14 +11,14 @@ bigimg:
 ---
 
 
-[Google scholar](https://scholar.google.com/citations?user=6EkjrvkAAAAJ&hl=en&oi=ao)
+<a href="https://scholar.google.com/citations?user=6EkjrvkAAAAJ&hl=en&oi=ao" target="_blank">Google scholar</a><br>
 
-[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/haikuo.li.1/bibliography/public/)
+<a href="https://www.ncbi.nlm.nih.gov/myncbi/haikuo.li.1/bibliography/public/" target="_blank">PubMed</a><br>
 
 <hr>
 ## Selected Publications
 
-<strong><u>Li, H.</u></strong>, Dixon, E.E., Wu, H. and Humphreys, B.D., 2022. Comprehensive single-cell transcriptional profiling defines shared and unique epithelial injury responses during kidney fibrosis. <strong><u>Cell Metabolism</u></strong>, 34(12), pp.1977-1998. ([DOI](https://doi.org/10.1016/j.cmet.2022.09.026))<br>
+<strong><u>Li, H.</u></strong>, Dixon, E.E., Wu, H. and Humphreys, B.D., 2022. Comprehensive single-cell transcriptional profiling defines shared and unique epithelial injury responses during kidney fibrosis. <strong><u>Cell Metabolism</u></strong>, 34(12), pp.1977-1998. (<a href="https://doi.org/10.1016/j.cmet.2022.09.026" target="_blank">DOI</a>)<br>
 →	Research featured by NIH NIDDK annual report ([PDF](https://www.niddk.nih.gov/-/media/Files/Strategic-Plans/2024/NIDDK_RecentAdvances_2024-KUH.pdf))<br>
 →	Research Highlights by <i>Nature Reviews Nephrology</i> ([link](https://www.nature.com/articles/s41581-022-00657-x))<br>
 →	Research Highlights by <i>Kidney International</i> ([link](https://doi.org/10.1016/j.kint.2023.02.005))<br>

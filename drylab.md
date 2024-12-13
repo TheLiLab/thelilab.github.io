@@ -33,6 +33,7 @@ bigimg:
 <hr>
 
 ### Useful resources
+Suggested software for PC users (personal opinion): WinSCP or Cyberduck, PuTTY, Sublime<br>
 <a href="https://www.ebi.ac.uk/ena/browser/home" target="_blank">ENA</a> (convenient for raw data downloading)<br>
 <a href="https://geneontology.org/" target="_blank">Gene Ontology</a><br>
 <a href="https://jef.works/teaching/" target="_blank">Genomic Data Visualization</a> (Dr. Fan @JHU)<br>

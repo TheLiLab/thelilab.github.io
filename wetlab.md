@@ -16,6 +16,12 @@ title: Wet Lab
 [Library structure](https://teichlab.github.io/scg_lib_structs/methods_html/SHARE-seq.html)<br>
 <hr>
 
+### Kidney nuclear isolation
+[Mouse](https://doi.org/10.1016/j.xpro.2022.101904)<br>
+[Human](https://doi.org/10.1016/j.xpro.2024.103049)<br>
+[Protocols.io](https://www.protocols.io/view/nuclei-isolation-from-human-kidney-for-single-nucl-81wgbobnlpko/v1)<br>
+<hr>
+
 ### Useful online resources
 [Molarity calculator](https://www.endmemo.com/chem/molarity.php)<br>
 [Reverse complement generator](https://www.bioinformatics.org/sms/rev_comp.html)<br>

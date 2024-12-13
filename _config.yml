@@ -29,8 +29,8 @@ navbar-links:
   Team: "team"
   Publications: "pubs"
   Resources:
-    - GitHub: "https://github.com/HaikuoLi"
-    - Omics protocols & informatics: "omics_method"
+    - Wet Lab: "wetlab"
+    - Dry Lab: "drylab"
     - Shanghai Jiao Tong Uni: "https://en.sjtu.edu.cn/"
     - Affiliated medical school: "https://eng.shgh.cn/"
 

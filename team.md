@@ -3,7 +3,7 @@ layout: page
 title: Members
 bigimg:
 
-- "/img/path.jpg"
+- "/img/road_pic.jpg"
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Publications
+title: Protocols & Resources
 bigimg:
 
  - "/img/coverphotos/wetlab.jpg"
 
 ---
 
+##sci-RNA-seq3
 
-[Google scholar](https://scholar.google.com/citations?user=6EkjrvkAAAAJ&hl=en&oi=ao)
-
-[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/haikuo.li.1/bibliography/public/)
+[STAR Protocols](https://doi.org/10.1016/j.xpro.2022.101904)
+[Library structure](https://teichlab.github.io/scg_lib_structs/methods_html/sci-RNA-seq_family.html#sci-RNA-seq3)
 
 <hr>
 ## Selected Publications

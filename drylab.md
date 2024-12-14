@@ -34,6 +34,7 @@ Stop Thinking and Start Doing. The best learning is practicing!<br>
 <a href="https://github.com/TheHumphreysLab/MALDIpy" target="_blank">MALDIpy</a> (Metabolomics data analysis in Python)<br>
 <a href="https://broadinstitute.github.io/KrumlovSingleCellWorkshop2020/" target="_blank">SingleCellWorkshop</a> (by Dr. Gosik)<br>
 <a href="https://mojaveazure.github.io/seurat-disk/articles/convert-anndata.html" target="_blank">SeuratDisk</a> (conversion between Seurat and AnnData)<br>
+<a href="https://www.nature.com/articles/d41586-022-04426-5" target="_blank">Which single-cell analysis tool is best?</a> (Nature 2022 TECHNOLOGY FEATURE)<br>
 <hr>
 
 ### Useful resources

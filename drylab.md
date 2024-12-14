@@ -7,7 +7,11 @@ bigimg:
 
 ---
 
+
 <a href="https://github.com/HaikuoLi" target="_blank">GitHub</a><br>
+
+Stop Thinking and Start Doing. The best learning is practicing!<br>
+纸上得来终觉浅，绝知此事要躬行。<br>
 <hr>
 
 ### Omics data visualizer
@@ -41,6 +45,5 @@ Suggested software for PC users (personal opinion): WinSCP or Cyberduck, PuTTY, 
 <a href="https://www.omicsolution.org/wkomics/main/" target="_blank">WuKong</a> (For beginners: data analysis without informatics experience)<br>
 <hr>
 
+_Disclaimer: The team has no conflicts of interest with the vendors/laboratories._<br>
 <br>
-Stop Thinking and Start Doing. The best learning is practicing!<br>
-纸上得来终觉浅，绝知此事要躬行。<br>

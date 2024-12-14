@@ -3,7 +3,7 @@ layout: page
 title: We are recruiting
 bigimg:
 
-- "/img/path.jpg"
+- "/img/random_images/2024nature_ride.webp"
 
 ---
 

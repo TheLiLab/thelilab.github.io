@@ -37,10 +37,12 @@ Stop Thinking and Start Doing. The best learning is practicing!<br>
 <hr>
 
 ### Useful resources
-Suggested software for PC users (personal opinion): WinSCP or Cyberduck, PuTTY, Sublime<br>
+Suggested software for PC users (personal opinion): WinSCP or Cyberduck (SFTP/FTP client), PuTTY (SSH client), Sublime (code editing).<br>
 <a href="https://www.ebi.ac.uk/ena/browser/home" target="_blank">ENA</a> (convenient for raw data downloading)<br>
 <a href="https://geneontology.org/" target="_blank">Gene Ontology</a><br>
-<a href="https://jef.works/teaching/" target="_blank">Genomic Data Visualization</a> (Dr. Fan @JHU)<br>
+<a href="https://epigenomegateway.wustl.edu/" target="_blank">WashU Epigenome Browser</a> (Genomic data visulization)<br>
+<a href="https://genome.ucsc.edu/" target="_blank">UCSC Genome Browser</a> (Genomic data visulization)<br>
+<a href="https://jef.works/teaching/" target="_blank">Course | Genomic Data Visualization</a> (Dr. Fan @JHU)<br>
 <a href="https://www.bic.ac.cn/BIC/#/" target="_blank">ImageGP</a> (For beginners: data analysis without informatics experience)<br>
 <a href="https://www.omicsolution.org/wkomics/main/" target="_blank">WuKong</a> (For beginners: data analysis without informatics experience)<br>
 <hr>

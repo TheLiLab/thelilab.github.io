@@ -3,7 +3,7 @@ layout: page
 title: We are recruiting
 bigimg:
 
-- "/img/random_images/2024nature_ride.webp"
+- "/img/random_images/2024nature_ride.webp" : "Ride share: The best science images of 2024 picked by _Nature_"
 
 ---
 

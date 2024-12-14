@@ -26,7 +26,7 @@ bigimg:
 <hr>
 
 
-# About PI:<br>
+## About PI:<br>
 
 Dr. Li obtained B.S. in biological sciences from Shanghai Jiao Tong University (Zhiyuan Honors Program) and Ph.D. in molecular genetics and genomics from Washington University in St. Louis. He received postdoctoral training at Yale University Department of Bioengineering.<br>
 

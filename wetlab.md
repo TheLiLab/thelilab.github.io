@@ -57,4 +57,6 @@ Video illustration of Sequencing by Synthesis (边合成边测序): [English](ht
 [_Progress in science depends on new techniques, new discoveries and new ideas, probably in that order._ - Sydney Brenner](https://www.nature.com/articles/285358a0)<br>
 [Principles of Research address by Albert Einstein (1918)](https://www.site.uottawa.ca/~yymao/misc/Einstein_PlanckBirthday.html)<br>
 
+<hr>
+Disclaimer: The team has no conflicts of interest with the vendors/laboratories.<br>
 <br>

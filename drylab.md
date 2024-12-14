@@ -15,9 +15,9 @@ Stop Thinking and Start Doing. The best learning is practicing!<br>
 <hr>
 
 ### Omics data visualizer
-<a href="https://cellxgene.cziscience.com/datasets" target="_blank">CELLXGENE by CZI</a><br>
-<a href="https://atlas.kpmp.org/explorer/" target="_blank">Kidney browser by KPMP</a><br>
-<a href="https://humphreyslab.com/SingleCell/" target="_blank">Humphreyslab K.I.T. (WashU)</a><br>
+<a href="https://cellxgene.cziscience.com/datasets" target="_blank">CELLXGENE by CZI</a> (Large collection of single-cell omics datasets)<br>
+<a href="https://atlas.kpmp.org/explorer/" target="_blank">Kidney browser by KPMP</a> (Kidney Precision Medicine Project)<br>
+<a href="https://humphreyslab.com/SingleCell/" target="_blank">Humphreyslab K.I.T. (WashU)</a> (Large collection of kidney single-cell and spatial omics data)<br>
 <a href="http://www.susztaklab.com/" target="_blank">Susztaklab Kidney Biobank (UPenn)</a><br>
 <a href="https://cello.shinyapps.io/kidneycellexplorer/" target="_blank">McMahonlab mouse kidney (USC)</a><br>
 <a href="https://shiny.mdc-berlin.de/humAKI/" target="_blank">Human AKI (Hannover)</a><br>

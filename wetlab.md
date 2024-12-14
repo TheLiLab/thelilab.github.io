@@ -58,5 +58,5 @@ Video illustration of Sequencing by Synthesis (边合成边测序): [English](ht
 [Principles of Research address by Albert Einstein (1918)](https://www.site.uottawa.ca/~yymao/misc/Einstein_PlanckBirthday.html)<br>
 
 <hr>
-Disclaimer: The team has no conflicts of interest with the vendors/laboratories.<br>
+_Disclaimer: The team has no conflicts of interest with the vendors/laboratories._<br>
 <br>

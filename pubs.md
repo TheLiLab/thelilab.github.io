@@ -23,7 +23,7 @@ bigimg:
 →	Research Highlights by <i>Nature Reviews Nephrology</i> (<a href="https://www.nature.com/articles/s41581-022-00657-x" target="_blank">link</a>)<br>
 →	Research Highlights by <i>Kidney International</i> (<a href="https://doi.org/10.1016/j.kint.2023.02.005" target="_blank">DOI</a>)<br>
 →	科技部报道 (<a href="https://www.most.gov.cn/ztzl/gnwkjdt/202211/t20221111_183450.html" target="_blank">《科学家构建肾脏纤维化全景图谱》</a>)<br>
-→	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/1-JbkuPvXk3-Y5-cocJn3Q" target="_blank">BioArt</a>; <a href="https://mp.weixin.qq.com/s/tRLhBHvm4BKw3VJ8IUiXuA" target="_blank">麻省理工科技评论</a>; <a href="https://mp.weixin.qq.com/s/2EWORGEduLyAIgaS2xlviw" target="_blank">I found a very nice journal club presentation of this work by the Tong Group.</a>)
+→	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/1-JbkuPvXk3-Y5-cocJn3Q" target="_blank">BioArt</a>; <a href="https://mp.weixin.qq.com/s/tRLhBHvm4BKw3VJ8IUiXuA" target="_blank">麻省理工科技评论</a>)
 <br>
 
 <strong><u>Li, H.</u></strong>, Li, D., Ledru, N., Xuanyuan, Q., Wu, H., Asthana, A., Byers, L.N., Tullius, S.G., Orlando, G., Waikar, S.S. and Humphreys, B.D., 2024. Transcriptomic, epigenomic, and spatial metabolomic cell profiling redefines regional human kidney anatomy. <strong><u>Cell Metabolism</u></strong>, 36(5), pp.1105-1125.  (<a href="https://doi.org/10.1016/j.cmet.2024.02.015" target="_blank">DOI</a>)<br>

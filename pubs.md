@@ -28,7 +28,7 @@ bigimg:
 
 <strong><u>Li, H.</u></strong>, Li, D., Ledru, N., Xuanyuan, Q., Wu, H., Asthana, A., Byers, L.N., Tullius, S.G., Orlando, G., Waikar, S.S. and Humphreys, B.D., 2024. Transcriptomic, epigenomic, and spatial metabolomic cell profiling redefines regional human kidney anatomy. <strong><u>Cell Metabolism</u></strong>, 36(5), pp.1105-1125.  (<a href="https://doi.org/10.1016/j.cmet.2024.02.015" target="_blank">DOI</a>)<br>
 →	Featured Content of the <i>Cell Metabolism</i> journal website<br>
-→	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/EZZC0j3wezH26dazQr_swQ" target="_blank">BioArt</a>; <a href="https://mp.weixin.qq.com/s/jdNkc0TlyETwB1TnJLkj0w" target="_blank">公众号1</a>; <a href="https://mp.weixin.qq.com/s/um9sJmHkBxpMUosJSsiNpg" target="_blank">公众号2</a>)
+→	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/EZZC0j3wezH26dazQr_swQ" target="_blank">BioArt</a>; <a href="https://mp.weixin.qq.com/s/jdNkc0TlyETwB1TnJLkj0w" target="_blank">公众号</a>)
 <br>
 
 <strong><u>Li, H.</u></strong>#, Li, D.# and Humphreys, B.D., 2024. Chromatin conformation and histone modification profiling across human kidney anatomic regions. <strong><u>Scientific Data</u></strong>, 11(1), p.797. (<a href="https://doi.org/10.1038/s41597-024-03648-8" target="_blank">DOI</a>)<br>

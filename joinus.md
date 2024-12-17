@@ -5,7 +5,7 @@ bigimg:
 
 - "/img/random_images/2024nature_ride.webp" : "Ride share: The best science images of 2024 picked by Nature (《奇妙搭档》by Enric Gener)"
 - "/img/random_images/2024nature_kidney.webp" : "Tiniest transplant: The best science images of 2024 picked by Nature (“胎儿到胎儿”小鼠肾脏移植by K. Morimoto et al.)"
-- "/img/random_images/2024nature_penguin.png" : "Leap of faith: The best science images of 2024 picked by Nature（《信念一跃》by National Geographic/Bertie Gregory（我觉得它应该是被别的企鹅挤下去的））"
+- "/img/random_images/2024nature_penguin.png" : "Leap of faith: The best science images of 2024 picked by Nature [《信念一跃》by National Geographic/Bertie Gregory（我觉得它应该是被别的企鹅挤下去的）]"
 
 ---
 

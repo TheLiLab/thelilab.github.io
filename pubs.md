@@ -18,7 +18,7 @@ bigimg:
 <hr>
 ## Selected Publications
 
-<strong><u>Li, H.</u></strong>, Dixon, E.E., Wu, H. and Humphreys, B.D., 2022. Comprehensive single-cell transcriptional profiling defines shared and unique epithelial injury responses during kidney fibrosis. <strong><u>Cell Metabolism</u></strong>, 34(12), pp.1977-1998. (<a href="https://doi.org/10.1016/j.cmet.2022.09.026" target="_blank">DOI</a>)<br>
+- <strong><u>Li, H.</u></strong>, Dixon, E.E., Wu, H. and Humphreys, B.D., 2022. Comprehensive single-cell transcriptional profiling defines shared and unique epithelial injury responses during kidney fibrosis. <strong><u>Cell Metabolism</u></strong>, 34(12), pp.1977-1998. (<a href="https://doi.org/10.1016/j.cmet.2022.09.026" target="_blank">DOI</a>)<br>
 →	Research featured by <a href="https://www.niddk.nih.gov/about-niddk/strategic-plans-reports/niddk-recent-advances-emerging-opportunities" target="_blank">NIH NIDDK annual report</a> (<a href="https://www.niddk.nih.gov/-/media/Files/Strategic-Plans/2024/NIDDK_RecentAdvances_2024-KUH.pdf" target="_blank">PDF</a>)<br>
 →	Research Highlights by <i>Nature Reviews Nephrology</i> (<a href="https://doi.org/10.1038/s41581-022-00657-x" target="_blank">DOI</a>)<br>
 →	Research Highlights by <i>Kidney International</i> (<a href="https://doi.org/10.1016/j.kint.2023.02.005" target="_blank">DOI</a>)<br>
@@ -26,17 +26,17 @@ bigimg:
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/1-JbkuPvXk3-Y5-cocJn3Q" target="_blank">BioArt</a>; <a href="https://mp.weixin.qq.com/s/tRLhBHvm4BKw3VJ8IUiXuA" target="_blank">麻省理工科技评论</a>)
 <br>
 
-<strong><u>Li, H.</u></strong>, Li, D., Ledru, N., Xuanyuan, Q., Wu, H., Asthana, A., Byers, L.N., Tullius, S.G., Orlando, G., Waikar, S.S. and Humphreys, B.D., 2024. Transcriptomic, epigenomic, and spatial metabolomic cell profiling redefines regional human kidney anatomy. <strong><u>Cell Metabolism</u></strong>, 36(5), pp.1105-1125.  (<a href="https://doi.org/10.1016/j.cmet.2024.02.015" target="_blank">DOI</a>)<br>
+- <strong><u>Li, H.</u></strong>, Li, D., Ledru, N., Xuanyuan, Q., Wu, H., Asthana, A., Byers, L.N., Tullius, S.G., Orlando, G., Waikar, S.S. and Humphreys, B.D., 2024. Transcriptomic, epigenomic, and spatial metabolomic cell profiling redefines regional human kidney anatomy. <strong><u>Cell Metabolism</u></strong>, 36(5), pp.1105-1125.  (<a href="https://doi.org/10.1016/j.cmet.2024.02.015" target="_blank">DOI</a>)<br>
 →	Research Highlights by <i>Nature Reviews Nephrology</i> 2024 Year in Review (<a href="https://doi.org/10.1038/s41581-024-00919-w" target="_blank">DOI</a>)<br>
 →	Featured Content of the <i>Cell Metabolism</i> journal website<br>
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/EZZC0j3wezH26dazQr_swQ" target="_blank">BioArt</a>; <a href="https://mp.weixin.qq.com/s/jdNkc0TlyETwB1TnJLkj0w" target="_blank">公众号</a>)
 <br>
 
-<strong><u>Li, H.</u></strong>#, Li, D.# and Humphreys, B.D., 2024. Chromatin conformation and histone modification profiling across human kidney anatomic regions. <strong><u>Scientific Data</u></strong>, 11(1), p.797. (<a href="https://doi.org/10.1038/s41597-024-03648-8" target="_blank">DOI</a>)<br>
+- <strong><u>Li, H.</u></strong>#, Li, D.# and Humphreys, B.D., 2024. Chromatin conformation and histone modification profiling across human kidney anatomic regions. <strong><u>Scientific Data</u></strong>, 11(1), p.797. (<a href="https://doi.org/10.1038/s41597-024-03648-8" target="_blank">DOI</a>)<br>
 →	Highlighted in the collection of <a href="https://www.nature.com/collections/fehdjjbjce" target="_blank">Data for epigenetics research</a>
 <br>
 
-<strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2024. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>. (accepted)
+- <strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2024. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>. (accepted)
 <br>
 
 <hr>

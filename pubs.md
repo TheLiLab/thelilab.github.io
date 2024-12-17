@@ -27,6 +27,7 @@ bigimg:
 <br>
 
 <strong><u>Li, H.</u></strong>, Li, D., Ledru, N., Xuanyuan, Q., Wu, H., Asthana, A., Byers, L.N., Tullius, S.G., Orlando, G., Waikar, S.S. and Humphreys, B.D., 2024. Transcriptomic, epigenomic, and spatial metabolomic cell profiling redefines regional human kidney anatomy. <strong><u>Cell Metabolism</u></strong>, 36(5), pp.1105-1125.  (<a href="https://doi.org/10.1016/j.cmet.2024.02.015" target="_blank">DOI</a>)<br>
+→	Research Highlights by <i>Nature Reviews Nephrology</i> 2024 Year in Review (<a href="https://doi.org/10.1038/s41581-024-00919-w" target="_blank">link</a>)<br>
 →	Featured Content of the <i>Cell Metabolism</i> journal website<br>
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/EZZC0j3wezH26dazQr_swQ" target="_blank">BioArt</a>; <a href="https://mp.weixin.qq.com/s/jdNkc0TlyETwB1TnJLkj0w" target="_blank">公众号</a>)
 <br>

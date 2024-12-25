@@ -25,9 +25,9 @@ author: The Li Lab
 navbar-links:
   #About Me: "aboutme"
   Research: "research"
-  Join us: "joinus"
-  Team: "team"
   Publications: "pubs"
+  Team: "team"
+  加入我们: "joinus"
   Resources:
     - Wet Lab: "wetlab"
     - Dry Lab: "drylab"

@@ -15,7 +15,7 @@ bigimg:
   <div style="flex-grow: 1;">
     <strong>Haikuo Li (李海廓)</strong><br>
     <span style="font-size: 16px;">
-      Principal Investigator (<a href="https://haikuoli.github.io/files/CV_202408.pdf" target="_blank">CV</a>)<br>
+      Principal Investigator (<a href="https://thelilab.github.io/media/file/CV_haikuoli.pdf" target="_blank">CV</a>)<br>
     </span>
 
     <span style="font-size: 14px;">

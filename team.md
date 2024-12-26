@@ -17,11 +17,12 @@ bigimg:
     <span style="font-size: 16px;">
       PI<br>
     </span>
-    
-     <span style="font-size: 15px;">
+
+    <span style="font-size: 14px;">
       Haikuo obtained his B.S. from Shanghai Jiao Tong University (Bioscience; Zhiyuan Honors Program) and Ph.D. from Washington University in St. Louis (Molecular Genetics & Genomics), and received postdoctoral training at Yale University.<br>
       Our researches focus on tissue fibrosis, kidney injury & repair, cell metabolism and epigenetics. Our approaches include single-cell and spatial omics, animal models of fibrosis, metabolic measurement and bioinformatics.
-      </span>
+    </span>
+
   </div>
 </div>
 

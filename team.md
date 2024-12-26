@@ -19,7 +19,7 @@ bigimg:
     </span>
 
     <span style="font-size: 14px;">
-      Haikuo obtained his B.S. from Shanghai Jiao Tong University (Bioscience; Zhiyuan Honors Program) and Ph.D. from Washington University in St. Louis (Molecular Genetics & Genomics), and received postdoctoral training at Yale University.<br>
+      Haikuo obtained his B.S. from Shanghai Jiao Tong University (Bioscience; Zhiyuan Honors Program) and Ph.D. from Washington University in St. Louis (Molecular Genetics & Genomics), and received postdoctoral training from Yale University.<br>
       In the Li Lab, we study tissue fibrosis, kidney injury & repair, cell metabolism and epigenetics, leveraging approaches including single-cell and spatial omics, animal models of fibrosis, metabolic measurement and bioinformatics.
     </span>
 

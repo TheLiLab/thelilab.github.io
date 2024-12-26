@@ -30,7 +30,7 @@ bigimg:
 
 ## About PI:<br>
 
-Dr. Li obtained B.S. in biological sciences from Shanghai Jiao Tong University (Zhiyuan Honors Program) and Ph.D. in molecular genetics and genomics from Washington University in St. Louis. He received postdoctoral training at Yale University Department of Bioengineering.<br>
+Dr. Li obtained B.S. in biological sciences from Shanghai Jiao Tong University (Zhiyuan Honors Program) and Ph.D. in molecular genetics and genomics from Washington University in St. Louis. He was a postdoctoral research associate at Yale University Department of Bioengineering.<br>
 
 His research explores mechanisms of kidney injury, fibrosis and metabolic dysregulation with single-cell and spatial genomics approaches, including single-cell transcriptomics, chromatin accessibility and spatially resolved multiomics. In addition, he is broadly interested in epigenetic regulation of gene expression in human diseases, as well as development of cutting-edge genomics technologies.<br>
 

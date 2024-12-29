@@ -36,7 +36,7 @@ bigimg:
 →	Highlighted in the collection of <a href="https://www.nature.com/collections/fehdjjbjce" target="_blank">Data for epigenetics research</a>
 <br>
 
-- <strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2024. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>. (accepted)
+- <strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2025. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>. (accepted)
 <br>
 
 <hr>

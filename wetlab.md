@@ -41,7 +41,7 @@ Mouse kidney IRI surgery (JOVE): <a href="https://app.jove.com/v/52559/a-murine-
 ### About Illumina next-generation sequencing
 Video illustration of Sequencing by Synthesis (边合成边测序): <a href="https://www.youtube.com/watch?v=fCd6B5HRaZ8" target="_blank">English</a>; <a href="https://www.bilibili.com/video/BV1W44y1373N/?spm_id_from=333.337.search-card.all.click&vd_source=4bb94a4fe4816451654e056a90253e89" target="_blank">中文</a><br>
 <a href="https://teichlab.github.io/scg_lib_structs/methods_html/Illumina.html" target="_blank">Details</a><br>
-<a href="https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/SequencesNextera_Illumina.htm" target="_blank">Nextera sequences</a><br>
+<a href="https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/SequencesNextera_Illumina.htm" target="_blank">Nextera sequences</a>, <a href="https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm" target="_blank">indexes</a><br>
 <hr>
 
 ### Useful online resources

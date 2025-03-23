@@ -36,12 +36,14 @@ bigimg:
 →	Highlighted in the collection of <a href="https://www.nature.com/collections/fehdjjbjce" target="_blank">Data for epigenetics research</a>
 <br>
 
-- <strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2025. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>. (accepted)
+- <strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A.A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2025. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>, pp.1-35.
 <br>
 
 <hr>
 ## All Publications
 
+(20) <strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A.A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2025. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>, pp.1-35.
+<br>
 
 (19) Baysoy, A.#, Tian, X.#, Zhang, F.#, Renauer, P.#, Bai, Z., Shi, H., <strong><u>Li, H.</u></strong>, Tao, B., Yang, M., Enninful, A. and Gao, F., 2024. Spatially Resolved in vivo CRISPR Screen Sequencing via Perturb-DBiT. <strong><u>BioRxiv</u></strong>, pp.2024-11.
 <br>

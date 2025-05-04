@@ -56,6 +56,7 @@ Video illustration of Sequencing by Synthesis (边合成边测序): <a href="htt
 <a href="https://employees.csbsju.edu/hjakubowski/classes/ch331/bcintro/default.html" target="_blank">Learn biochemistry online</a><br>
 <a href="https://www.nature.com/articles/285358a0" target="_blank">_Progress in science depends on new techniques, new discoveries and new ideas, probably in that order._ - Sydney Brenner</a><br>
 <a href="https://www.site.uottawa.ca/~yymao/misc/Einstein_PlanckBirthday.html" target="_blank">Principles of Research address by Albert Einstein (1918)</a><br>
+<a href="https://elifesciences.org/articles/80711" target="_blank">Living Science: Maintaining the joy of discovery</a><br>
 
 <hr>
 _Disclaimer: The team has no conflicts of interest with the vendors/laboratories._<br>

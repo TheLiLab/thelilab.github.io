@@ -47,7 +47,6 @@ Suggested software for PC users (personal opinion): WinSCP or Cyberduck (SFTP/FT
 <a href="https://jef.works/teaching/" target="_blank">Course | Genomic Data Visualization</a> (Dr. Fan @JHU)<br>
 <a href="http://liheng.org/" target="_blank">Heng Li's tools</a> (VIP in genomics)<br>
 <a href="https://www.bic.ac.cn/BIC/#/" target="_blank">ImageGP</a> (For beginners: data analysis without informatics experience)<br>
-<a href="https://www.omicsolution.org/wkomics/main/" target="_blank">WuKong</a> (For beginners: data analysis without informatics experience)<br>
 <hr>
 
 _Disclaimer: The team has no conflicts of interest with the vendors/laboratories._<br>

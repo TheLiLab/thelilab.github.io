@@ -7,6 +7,7 @@ bigimg:
  - "/img/coverphotos/sci-seq-injury.jpg" : "近端小管损伤型细胞态 Injured cell states of the proximal tubule (Cell Metabolism 2022；左图被选为NIDDK年度报告唯一插图)"
  - "/img/coverphotos/sci-seq-plin2.jpg" : "PLIN2是一类损伤型肾小管细胞态的脂滴标志物 PLIN2 is a lipid droplet marker in Type 1 injured PT cells (Cell Metabolism 2022)"
  - "/img/coverphotos/kidney-hic-cutrun.jpg" : "人类肾脏的三维基因组和表观遗传组 The 3D genomics and epigenomics of the human kidney (Scientific Data 2024)"
+ - "/img/coverphotos/cover-spatial-omics.jpg" : "前沿空间表观遗传组和转录组技术的开发与应用 Development of spatially resolved epigenomics & transcriptomics coprofiling methods (Nature Protocols 2025)"
 
 ---
 

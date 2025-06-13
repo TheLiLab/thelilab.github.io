@@ -20,14 +20,14 @@ Mouse kidney IRI surgery (JOVE): <a href="https://app.jove.com/v/52559/a-murine-
 <a href="https://www.protocols.io/view/nuclei-isolation-from-human-kidney-for-single-nucl-81wgbobnlpko/v1" target="_blank">protocols.io</a><br>
 <hr>
 
-### sci-RNA-seq3
-<a href="https://doi.org/10.1016/j.xpro.2022.101904" target="_blank">STAR Protocols</a><br>
-<a href="https://teichlab.github.io/scg_lib_structs/methods_html/sci-RNA-seq_family.html#sci-RNA-seq3" target="_blank">Library structure</a><br>
-<hr>
-
 ### SHARE-seq
 <a href="https://doi.org/10.1016/j.xpro.2024.103049" target="_blank">STAR Protocols</a><br>
 <a href="https://teichlab.github.io/scg_lib_structs/methods_html/SHARE-seq.html" target="_blank">Library structure</a><br>
+<hr>
+
+### sci-RNA-seq3
+<a href="https://doi.org/10.1016/j.xpro.2022.101904" target="_blank">STAR Protocols</a><br>
+<a href="https://teichlab.github.io/scg_lib_structs/methods_html/sci-RNA-seq_family.html#sci-RNA-seq3" target="_blank">Library structure</a><br>
 <hr>
 
 ### Spatial multiomics sequencing

@@ -22,7 +22,7 @@ bigimg:
 →	Research featured by <a href="https://www.niddk.nih.gov/about-niddk/strategic-plans-reports/niddk-recent-advances-emerging-opportunities" target="_blank">NIH NIDDK annual report</a> (<a href="https://thelilab.github.io/media/file/NIDDK_RecentAdvances_2024-KUH.pdf" target="_blank">PDF</a>)<br>
 →	Research Highlights by <i>Nature Reviews Nephrology</i> (<a href="https://doi.org/10.1038/s41581-022-00657-x" target="_blank">DOI</a>)<br>
 →	Research Highlights by <i>Kidney International</i> (<a href="https://doi.org/10.1016/j.kint.2023.02.005" target="_blank">DOI</a>)<br>
-→	科技部报道《科学家构建肾脏纤维化全景图谱》(<a href="https://thelilab.github.io/media/file/gov_news.pdf" target="_blank">网页PDF</a>)<br>
+→	中华人民共和国科学技术部报道《科学家构建肾脏纤维化全景图谱》(<a href="https://thelilab.github.io/media/file/gov_news.pdf" target="_blank">网页PDF</a>)<br>
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/1-JbkuPvXk3-Y5-cocJn3Q" target="_blank">BioArt</a>; <a href="https://mp.weixin.qq.com/s/tRLhBHvm4BKw3VJ8IUiXuA" target="_blank">麻省理工科技评论</a>)
 <br>
 

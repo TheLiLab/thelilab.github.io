@@ -14,7 +14,7 @@ bigimg:
 
 <a href="https://scholar.google.com/citations?user=6EkjrvkAAAAJ&hl=en&oi=ao" target="_blank">Google scholar</a><br>
 
-<a href="https://www.ncbi.nlm.nih.gov/myncbi/haikuo.li.1/bibliography/public/" target="_blank">PubMed</a><br>
+#<a href="https://www.ncbi.nlm.nih.gov/myncbi/haikuo.li.1/bibliography/public/" target="_blank">PubMed</a><br>
 
 <hr>
 ## Selected Publications

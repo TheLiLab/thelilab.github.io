@@ -34,7 +34,7 @@ Mouse kidney IRI surgery (JOVE): <a href="https://app.jove.com/v/52559/a-murine-
 <a href="https://doi.org/10.1016/j.cell.2020.10.026" target="_blank">DBiT-seq (spatial-RNA-seq)</a><br>
 <a href="https://doi.org/10.1038/s41586-022-05094-1" target="_blank">Spatial-ATAC-seq</a><br>
 <a href="https://doi.org/10.1126/science.abg7216" target="_blank">Spatial-CUT&Tag</a><br>
-<a href="" target="_blank">Spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq</a><br>
+<a href="https://doi.org/10.1038/s41596-025-01145-9" target="_blank">Spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq</a><br>
 <a href="https://doi.org/10.1016/j.cell.2024.09.001" target="_blank">Patho-DBiT (spatial-RNA-seq in FFPE)</a><br>
 <hr>
 

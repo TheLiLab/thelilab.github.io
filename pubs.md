@@ -43,6 +43,9 @@ bigimg:
 <hr>
 ## All Publications
 
+(21) Malone, A.F., Paul, R., <strong><u>Li, H.</u></strong>, Leckie-Harre, A., Wu, H., Ledru, N., McPherson, G., Davies, H.B., Doty, T., Farney, A.C. and Jay, C.C., 2025. Mosaic Loss of Y Chromosome Defines a Proximal Tubular Cell State Associated with Recovery from DGF and of Allograft Quality and Functional Reserve Post DCD Kidney Transplantation. Annals of Surgery, pp.10-1097. (<a href="https://doi.org/10.1097/sla.0000000000006830" target="_blank">DOI</a>)<br>
+<br>
+
 (20) <strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A.A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2025. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>, pp.1-35. (<a href="https://doi.org/10.1038/s41596-025-01145-9" target="_blank">DOI</a>)<br>
 →	Highlighted in <a href="https://doi.org/10.1038/s41596-025-01151-x" target="_blank">News & Views</a> of Nature Protocols
 <br>

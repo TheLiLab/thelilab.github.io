@@ -46,7 +46,7 @@ Suggested software for PC users (personal opinion): WinSCP or Cyberduck (SFTP/FT
 <a href="https://epigenomegateway.wustl.edu/" target="_blank">WashU Epigenome Browser</a> (Genomic data visulization)<br>
 <a href="https://genome.ucsc.edu/" target="_blank">UCSC Genome Browser</a> (Genomic data visulization)<br>
 <a href="https://jef.works/teaching/" target="_blank">Course | Genomic Data Visualization</a> (Dr. Fan @JHU)<br>
-<a href="http://liheng.org/" target="_blank">Heng Li's tools</a> (VIP in genomics)<br>
+<a href="http://liheng.org/" target="_blank">Heng Li's tools</a> (Genomics)<br>
 <a href="https://www.bic.ac.cn/BIC/#/" target="_blank">ImageGP</a> (For beginners: data analysis without informatics experience)<br>
 <hr>
 

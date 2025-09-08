@@ -33,7 +33,7 @@ bigimg:
   <div style="flex-shrink: 0; margin-right: 20px;">
     <img src="/img/peopleimg/haikuoli.jpg" style="width: 100%; max-width: 200px;" />
   </div>
-  
+<br>
 Dr. Li obtained B.S. in bioscience from Shanghai Jiao Tong University (Zhiyuan Honors Program) and Ph.D. in molecular genetics and genomics from Washington University in St. Louis. He was a postdoctoral research associate at Yale University Department of Biomedical Engineering.<br>
 
 His research explores mechanisms of kidney injury, fibrosis and metabolic dysregulation with single-cell and spatial omics approaches, including single-cell transcriptomics, chromatin accessibility and spatially resolved multiomics. In addition, he is broadly interested in epigenetic regulation of gene expression in human diseases, as well as development of cutting-edge genomics technologies.<br>

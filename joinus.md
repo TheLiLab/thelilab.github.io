@@ -29,10 +29,8 @@ bigimg:
 
 ### About PI:<br>
 
-<div style="display: flex; align-items: flex-start; font-size: 18px;">
-  <div style="flex-shrink: 0; margin-right: 20px;">
-    <img src="/img/peopleimg/haikuoli.jpg" style="width: 100%; max-width: 200px;" />
-  </div>
+<img src="/img/peopleimg/haikuoli.jpg" style="width: 100%; max-width: 200px;" />
+
 <br>
 Dr. Li obtained B.S. in bioscience from Shanghai Jiao Tong University (Zhiyuan Honors Program) and Ph.D. in molecular genetics and genomics from Washington University in St. Louis. He was a postdoctoral research associate at Yale University Department of Biomedical Engineering.<br>
 

@@ -39,7 +39,7 @@ bigimg:
 - <strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A.A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2025. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>, pp.1-35. (<a href="https://doi.org/10.1038/s41596-025-01145-9" target="_blank">DOI</a>)<br>
 →	Highlighted in <a href="https://doi.org/10.1038/s41596-025-01151-x" target="_blank">News & Views</a> of Nature Protocols<br>
 →	Selected as the <a href="https://www.nature.com/nprot/volumes/20/issues/9" target="_blank">cover</a> paper (Volume 20 Issue 9, September 2025)<br>
-<img src="/img/coverphotos/2025_nat_pro_cover.png" style="width: 100%; max-width: 200px;" />
+      <img src="/img/coverphotos/2025_nat_pro_cover.png" style="width: 150%; max-width: 300px;" />
 <br>
 
 <hr>

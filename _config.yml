@@ -47,7 +47,7 @@ round-avatar: false
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: The Li Lab
-  email: "haikuolibio@gmail.com"
+  email: "haikuo.li@wustl.edu"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
   twitter: haikuoli

@@ -46,7 +46,7 @@ round-avatar: false
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: The Li Lab
+  name: The Li Lab, 650 Xin Songjiang Road, Shanghai
   email: "haikuolibio@gmail.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali

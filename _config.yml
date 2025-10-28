@@ -17,7 +17,7 @@ baseurl: ""
 title: Haikuo Li Lab | Kidney & Omics
 
 # Your name to show in the footer
-author: The Li Lab, 650 Xinsongjiang Road, Shanghai General Hospital, Shanghai
+author: The Li Lab
 
 # --- Navigation bar options --- #
 
@@ -46,7 +46,7 @@ round-avatar: false
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: The Li Lab, 650 Xin Songjiang Road, Shanghai
+  name: The Li Lab, 650 Xinsongjiang Road, Shanghai General Hospital, Shanghai
   email: "haikuolibio@gmail.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali

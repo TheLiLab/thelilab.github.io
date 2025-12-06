@@ -23,6 +23,16 @@ bigimg:
       In the Li Lab, we study tissue fibrosis, kidney injury & repair, cell metabolism and epigenetics, leveraging approaches including single-cell and spatial omics, animal models of fibrosis, metabolic measurement and bioinformatics.
     </span>
 
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/img/peopleimg/pingli.jpg" style="width: 100%; max-width: 200px;" />
+  </div>
+  <div style="flex-grow: 1;">
+    <strong>Ping Li (李萍)</strong><br>
+    <span style="font-size: 16px;">
+    <span style="font-size: 14px;">
+      Ping is a research technician in the lab with expertise in pharmacology.
+    </span>
+    
   </div>
 </div>
 

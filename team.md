@@ -34,7 +34,7 @@ bigimg:
       Technician<br>
     </span>
     <span style="font-size: 14px;">
-      Ping is a research technician in the lab with expertise in pharmacology, animal models and clinical pharmacy.
+      <br>Ping is a research technician in the lab with expertise in pharmacology, animal models and clinical pharmacy.
     </span>
   </div></div>
 <hr>
@@ -49,7 +49,7 @@ bigimg:
       Technician<br>
     </span>
     <span style="font-size: 14px;">
-      Xinyu is a research technician in the lab with expertise in proteomics and computational biology.
+      <br>Xinyu is a research technician in the lab with expertise in proteomics and computational biology.
     </span>
   </div></div>
 <hr>
@@ -64,7 +64,7 @@ bigimg:
       Undergraduate Intern<br>
     </span>
     <span style="font-size: 14px;">
-      Xinchen is an undergraduate at Shanghai Jiao Tong University School of Medicine, major in clinical medicine.
+      <br>Xinchen is an undergraduate at Shanghai Jiao Tong University School of Medicine, major in clinical medicine.
     </span>
   </div></div>
 <hr>
@@ -79,7 +79,7 @@ bigimg:
       Undergraduate Intern<br>
     </span>
     <span style="font-size: 14px;">
-      Zhuo is an undergraduate at Shanghai Jiao Tong University School of Medicine, major in clinical medicine.
+      <br>Zhuo is an undergraduate at Shanghai Jiao Tong University School of Medicine, major in clinical medicine.
     </span>
   </div></div>
 <hr>
@@ -89,12 +89,12 @@ bigimg:
     <img src="/img/peopleimg/diandian.jpg" style="width: 100%; max-width: 200px;" />
   </div>
   <div style="flex-grow: 1;">
-    <strong>Diandian (点点)</strong><br>
+    <strong>Dottie (点点)</strong><br>
     <span style="font-size: 16px;">
-      11<br>
+      Assistant<br>
     </span>
     <span style="font-size: 14px;">
-      Zhuo is an undergraduate at Shanghai Jiao Tong University School of Medicine, major in clinical medicine.
+      <br>Dottie is a Golden British Longhair cat. He’s been working with Haikuo since he was just 3 months old!
     </span>
   </div></div>
 <hr>

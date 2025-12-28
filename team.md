@@ -86,7 +86,7 @@ bigimg:
 
 <div style="display: flex; align-items: flex-start; font-size: 18px;">
   <div style="flex-shrink: 0; margin-right: 20px;">
-    <img src="/img/peopleimg/diandian.jpg" style="width: 100%; max-width: 200px;" />
+    <img src="/img/peopleimg/diandian202512.jpg" style="width: 100%; max-width: 200px;" />
   </div>
   <div style="flex-grow: 1;">
     <strong>Dottie (点点)</strong><br>

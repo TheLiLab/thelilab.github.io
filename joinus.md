@@ -40,4 +40,4 @@ Since 2020, he has published 9 first-author research articles in journals such a
 
 李海廓，本科毕业于上海交通大学致远学院，博士毕业于圣路易斯华盛顿大学，随后在耶鲁大学开展博士后研究工作；现任上海交通大学医学院附属第一人民医院课题组长、上海交通大学医学院研究员、博士生导师；李海廓获聘上海交通大学“思源青年学者”，获国家优秀青年科学基金项目（海外）、上海市海外高层次青年人才计划、上海市白玉兰计划浦江项目等资助支持。<br>
 
-李海廓的研究聚焦肾脏损伤纤维化、代谢调控以及空间/单细胞多组学在人类疾病的应用，以第一作者或通讯作者在Cell Metabolism（2022、2024）、Nature Protocols（封面文章）、Nature Immunology、J Clin Invest、Kidney International、Scientific Data等期刊发表论文十余篇，相关成果被我国科技部新闻报道，入选美国卫生研究院NIDDK年度报告唯一插图。李海廓曾担任国际质谱成像学会（IMSIS）分会主席成员（Session Chair）和美国耶鲁大学课程客座讲师（Guest Instructor），受邀担任Nature、JASN、Kidney International、Nature Communications、Nature Protocols、GPB等杂志审稿人30余次，获美国卫生研究院NIDDK年度最佳论文、上海交通大学优异学士论文、上海市优秀毕业生、第30届中国数学奥赛铜牌等荣誉。
+李海廓的研究聚焦肾脏损伤纤维化、代谢调控以及空间/单细胞多组学在人类疾病的应用，以第一作者或通讯作者在Cell Metabolism（2022、2024）、Nature Protocols（封面文章）、Nature Immunology、J Clin Invest、Kidney International、Scientific Data等期刊发表论文十余篇，相关成果被我国科技部新闻报道，入选美国卫生研究院NIDDK年度报告唯一插图。李海廓曾担任国际质谱成像学会（IMSIS）分会主席成员（Session Chair），受邀担任Nature、JASN、Kidney International、Nature Communications、Nature Protocols、GPB等杂志审稿人30余次，获美国卫生研究院NIDDK年度最佳论文、上海交通大学优异学士论文、上海市优秀毕业生、第30届中国数学奥赛铜牌等荣誉。

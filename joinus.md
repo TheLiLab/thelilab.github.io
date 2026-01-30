@@ -23,7 +23,7 @@ bigimg:
 
 实验室鼓励学科交叉和学科融合，旨在让热爱科学的成员接受扎实的科研训练，掌握全面的科学知识和技能，学习最前沿的空间组学、单细胞组学、分子代谢等生物技术。<br><br>
 实验室将帮助成员取长补短、高效获得科研产出，培养成员优秀的科研素养和正直的职业品德，全力支持每个人的职业发展，使其未来成为技能全面、能够独当一面的独立科研工作者。<br><br>
-**我们正在积极组建具有优秀科学潜力和合作精神的研究团队（包括助理研究员、博士后、技术员和博士研究生），欢迎有意向的同学、青年才俊以及合作者联系。有意加入者请将简历发至邮箱[haikuolibio@gmail.com]，并简要介绍科研经历和技能。**<br><br>
+**我们正在积极组建具有优秀科学潜力和合作精神的研究团队（包括助理研究员、博士后、技术员和博士研究生），<a href="https://mp.weixin.qq.com/s/CEsZnCn3GgAk3obBPi6IOg" target="_blank">欢迎有意向的同学、青年才俊以及合作者联系</a>。有意加入者请将简历发至邮箱[lihaikuo@sjtu.edu.cn]，并简要介绍科研经历和技能。**<br><br>
 <hr>
 
 
@@ -35,3 +35,9 @@ Dr. Li obtained B.S. in bioscience from Shanghai Jiao Tong University (Zhiyuan H
 His research explores mechanisms of kidney injury, fibrosis and metabolic dysregulation with single-cell and spatial omics approaches, including single-cell transcriptomics, chromatin accessibility and spatially resolved multiomics. In addition, he is broadly interested in epigenetic regulation of gene expression in human diseases, as well as development of cutting-edge genomics technologies.<br>
 
 Since 2020, he has published 9 first-author research articles in journals such as <i>Cell Metabolism</i>, <i>Nature Protocols</i> and <i>Scientific Data</i>, and 6 first-author reviews in <i>Nature Immunology</i>, <i>The Journal of Clinical Investigation</i> and <i>Kidney International</i>. In <i>Cell Metabolism</i> 2022, Li et al. identified novel cell states of injured proximal tubules and dysregulated lipid metabolism in mouse models of kidney fibrosis, featured in the 2023 NIDDK annual report. In <i>Cell Metabolism</i> 2024, Li et al. developed a single-cell multiomics atlas for human kidneys, uncovering region-specific signatures. His work advances understanding of kidney injury and repair mechanisms and development of high-throughput genomics methods. Since 2023, he has been invited as a peer reviewer by reputable journals including <i>Nature</i>, <i>Journal of the American Society of Nephrology</i>, <i>Kidney International</i>, <i>Nature Communications</i>, and <i>Genomics, Proteomics & Bioinformatics</i> for over 20 times.
+<br>
+<hr>
+
+李海廓，本科毕业于上海交通大学致远学院，博士毕业于圣路易斯华盛顿大学，随后在耶鲁大学开展博士后研究工作；现任上海交通大学医学院附属第一人民医院课题组长、上海交通大学医学院研究员、博士生导师；李海廓获聘上海交通大学“思源青年学者”，获国家优秀青年科学基金项目（海外）、上海市海外高层次青年人才计划、上海市白玉兰计划浦江项目等资助支持。<br>
+
+李海廓的研究聚焦肾脏损伤纤维化、代谢调控以及空间/单细胞多组学在人类疾病的应用，以第一作者或通讯作者在Cell Metabolism（2022、2024）、Nature Protocols（封面文章）、Nature Immunology、J Clin Invest、Kidney International、Scientific Data等期刊发表论文十余篇，相关成果被我国科技部新闻报道，入选美国卫生研究院NIDDK年度报告唯一插图。李海廓曾担任国际质谱成像学会（IMSIS）分会主席成员（Session Chair）和美国耶鲁大学课程客座讲师（Guest Instructor），受邀担任Nature、JASN、Kidney International、Nature Communications、Nature Protocols、GPB等杂志审稿人30余次，获美国卫生研究院NIDDK年度最佳论文、上海交通大学优异学士论文、上海市优秀毕业生、第30届中国数学奥赛铜牌等荣誉。

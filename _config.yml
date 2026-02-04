@@ -31,6 +31,7 @@ navbar-links:
   Resources:
     - Wet Lab: "wetlab"
     - Dry Lab: "drylab"
+    - Lab News: "News"
     - Faculty Page: "http://icr.shgh.cn/rctd_show.aspx?id=39"
     - Affiliated medical school: "https://eng.shgh.cn/"
 

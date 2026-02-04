@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News
+title: Lab News
 bigimg:
 
 - "/img/road_pic.jpg"

@@ -17,7 +17,7 @@ We have received funding from Shanghai Pujiang Program! It will support our rese
 <br>
 
 <strong>11/29/2025</strong><br>
-We have received funding from Shanghai General Hospital! It will support our research in studying molecular and metabolic mechanisms of kidney fibrosis in the next 4 years.
+We have received startup funding from Shanghai General Hospital! It will support our research in studying molecular and metabolic mechanisms of kidney fibrosis in the next 4 years.
 <br>
 
 

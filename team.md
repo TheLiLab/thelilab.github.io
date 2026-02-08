@@ -98,3 +98,6 @@ bigimg:
     </span>
   </div></div>
 <hr>
+
+<strong>Alumni</strong><br>
+Xinyu Zhao (赵欣宇), Technician (2025-2026), Ph.D. student at University of Gothenburg, Sweden<br>

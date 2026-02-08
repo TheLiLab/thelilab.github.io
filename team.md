@@ -102,5 +102,3 @@ bigimg:
 <strong>Alumni</strong><br>
 <span style="font-size: 14px;">
 Xinyu Zhao (赵欣宇): Technician (2025-2026); Ph.D. student at University of Gothenburg, Sweden<br>
-
-</span>

@@ -39,20 +39,6 @@ bigimg:
   </div></div>
 <hr>
 
-<div style="display: flex; align-items: flex-start; font-size: 18px;">
-  <div style="flex-shrink: 0; margin-right: 20px;">
-    <img src="/img/peopleimg/xinyuzhao.jpg" style="width: 100%; max-width: 200px;" />
-  </div>
-  <div style="flex-grow: 1;">
-    <strong>Xinyu Zhao (赵欣宇)</strong><br>
-    <span style="font-size: 16px;">
-      Technician<br>
-    </span>
-    <span style="font-size: 14px;">
-      <br>Xinyu is a research technician in the lab with expertise in proteomics and computational biology.
-    </span>
-  </div></div>
-<hr>
 
 <div style="display: flex; align-items: flex-start; font-size: 18px;">
   <div style="flex-shrink: 0; margin-right: 20px;">

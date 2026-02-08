@@ -18,7 +18,7 @@ bigimg:
       Principal Investigator<br>
     </span>
     <span style="font-size: 14px;">
-      Haikuo obtained his B.S. from Shanghai Jiao Tong University (Zhiyuan Honors Program) and Ph.D. from Washington University in St. Louis (Molecular Genetics & Genomics), and received postdoctoral training from Yale University.<br>
+      Haikuo obtained his B.S. from Shanghai Jiao Tong University and Ph.D. from Washington University in St. Louis, and received postdoctoral training from Yale University.<br>
       We study kidney injury and fibrosis, metabolism and epigenetics, leveraging approaches including single-cell and spatial omics, in-vitro and in-vivo models and bioinformatics.
     </span>
   </div></div>

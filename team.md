@@ -39,6 +39,20 @@ bigimg:
   </div></div>
 <hr>
 
+<div style="display: flex; align-items: flex-start; font-size: 18px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/img/peopleimg/guoliangwang.jpg" style="width: 100%; max-width: 200px;" />
+  </div>
+  <div style="flex-grow: 1;">
+    <strong>Guoliang Wang (王国梁)</strong><br>
+    <span style="font-size: 16px;">
+      Research Associate Scientist<br>
+    </span>
+    <span style="font-size: 14px;">
+      <br>Guoliang received Ph.D. training in bioinformatics at Beijing Institute of Genomics Chinese Academy of Sciences.
+    </span>
+  </div></div>
+<hr>
 
 <div style="display: flex; align-items: flex-start; font-size: 18px;">
   <div style="flex-shrink: 0; margin-right: 20px;">

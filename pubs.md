@@ -43,8 +43,14 @@ bigimg:
       <img src="/img/coverphotos/2025_nat_pro_cover.png" style="width: 120%; max-width: 240px;" />
 <br>
 
+- <strong><u>Li, H.</u></strong> 2026. Proteogenomic dissection of kidney disease and cardiovascular-kidney-metabolic syndrome. <strong><u>Kidney International</u></strong>. (<a href="https://doi.org/10.1016/j.kint.2025.12.038" target="_blank">DOI</a>)
+<br>
+
 <hr>
 ## All Publications
+
+(22) <strong><u>Li, H.</u></strong> 2026. Proteogenomic dissection of kidney disease and cardiovascular-kidney-metabolic syndrome. <strong><u>Kidney International</u></strong>. (<a href="https://doi.org/10.1016/j.kint.2025.12.038" target="_blank">DOI</a>)
+<br>
 
 (21) Malone, A.F., Paul, R., <strong><u>Li, H.</u></strong>, Leckie-Harre, A., Wu, H., Ledru, N., McPherson, G., Davies, H.B., Doty, T., Farney, A.C. and Jay, C.C., 2025. Mosaic Loss of Y Chromosome Defines a Proximal Tubular Cell State Associated with Recovery from DGF and of Allograft Quality and Functional Reserve Post DCD Kidney Transplantation. <strong><u>Annals of Surgery</u></strong>, pp.10-1097. (<a href="https://doi.org/10.1097/sla.0000000000006830" target="_blank">DOI</a>)
 <br>

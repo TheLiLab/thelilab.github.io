@@ -30,7 +30,7 @@ bigimg:
   <div style="flex-grow: 1;">
     <strong>Ping Li (李萍)</strong><br>
     <span style="font-size: 16px;">
-      Technician<br>
+      Research Technician<br>
     </span>
     <span style="font-size: 14px;">
       <br>Ping is a research technician in the lab with expertise in pharmacology, animal models and clinical pharmacy.

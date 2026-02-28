@@ -31,7 +31,7 @@ Stop Thinking and Start Doing. The best learning is practicing!<br>
 <a href="https://scanpy.readthedocs.io/en/stable/" target="_blank">Scanpy</a> (Single-cell and spatial analysis in Python)<br>
 <a href="https://satijalab.org/seurat/" target="_blank">Seurat</a> (Single-cell and spatial analysis in R)<br>
 <a href="https://azimuth.hubmapconsortium.org/" target="_blank">Azimuth</a> (Single-cell reference mapping)<br>
-<a href="https://kzhang.org/SnapATAC2/tutorials/index.html" target="_blank">SnapATAC2</a> (snATAC-seq analysis in Python)<br>
+<a href="https://scverse.org/SnapATAC2/index.html" target="_blank">SnapATAC2</a> (snATAC-seq analysis in Python)<br>
 <a href="https://stuartlab.org/signac/" target="_blank">Signac</a> (snATAC-seq analysis in R)<br>
 <a href="https://github.com/TheHumphreysLab/MALDIpy" target="_blank">MALDIpy</a> (Metabolomics data analysis in Python)<br>
 <a href="https://broadinstitute.github.io/KrumlovSingleCellWorkshop2020/" target="_blank">SingleCellWorkshop</a> (by Dr. Gosik)<br>

@@ -108,7 +108,7 @@ bigimg:
       Assistant<br>
     </span>
     <span style="font-size: 14px;">
-      <br>Dottie is a Siberian Forest Cat. He’s been working with Haikuo since he was just 3 months old!
+      <br>Dottie is a Golden British Longhair, though looks like a Siberian Forest Cat. He’s been working with Haikuo since he was just 3 months old!
     </span>
   </div></div>
 <hr>

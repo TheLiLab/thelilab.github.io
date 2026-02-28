@@ -60,7 +60,7 @@ bigimg:
   <div style="flex-grow: 1;">
     <strong>Yitao Fan (范逸涛)</strong><br>
     <span style="font-size: 16px;">
-      Predoctoral student<br>
+      Visiting student<br>
     </span>
     <span style="font-size: 14px;">
       <br>Yitao obtained master degree from UK University of Liverpool major in biostatistics. He will enter Macau University of Science and Technology as a Ph.D. student this summer jointly mentored by Prof. Quancai Sun.

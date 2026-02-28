@@ -55,6 +55,21 @@ bigimg:
 
 <div style="display: flex; align-items: flex-start; font-size: 18px;">
   <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/img/peopleimg/yitaofan.jpg" style="width: 100%; max-width: 200px;" />
+  </div>
+  <div style="flex-grow: 1;">
+    <strong>Yitao Fan (范逸涛)</strong><br>
+    <span style="font-size: 16px;">
+      Predoctoral student<br>
+    </span>
+    <span style="font-size: 14px;">
+      <br>Yitao obtained master degree from UK University of Liverpool major in biostatistics. He will enter Macau University of Science and Technology as a Ph.D. student this summer jointly mentored by Prof. Quancai Sun.
+    </span>
+  </div></div>
+<hr>
+
+<div style="display: flex; align-items: flex-start; font-size: 18px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
     <img src="/img/peopleimg/xinchenmao.jpg" style="width: 100%; max-width: 200px;" />
   </div>
   <div style="flex-grow: 1;">

@@ -32,15 +32,10 @@ bigimg:
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/EZZC0j3wezH26dazQr_swQ" target="_blank">BioArt</a>; <a href="https://mp.weixin.qq.com/s/jdNkc0TlyETwB1TnJLkj0w" target="_blank">公众号</a>)
 <br>
 
-- <strong><u>Li, H.</u></strong>#, Li, D.# and Humphreys, B.D., 2024. Chromatin conformation and histone modification profiling across human kidney anatomic regions. <strong><u>Scientific Data</u></strong>, 11(1), p.797. (<a href="https://doi.org/10.1038/s41597-024-03648-8" target="_blank">DOI</a>)<br>
-→	Highlighted in the collection of <a href="https://www.nature.com/collections/fehdjjbjce" target="_blank">Data for epigenetics research</a>
-<br>
-
 - <strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A.A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2025. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>, pp.1-35. (<a href="https://doi.org/10.1038/s41596-025-01145-9" target="_blank">DOI</a>)<br>
 →	Highlighted in <a href="https://doi.org/10.1038/s41596-025-01151-x" target="_blank">News & Views</a> of Nature Protocols<br>
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/Q2yN0I4A4jlegDBZDzEWVA" target="_blank">Link</a>)<br>
-→	Selected as the <a href="https://www.nature.com/nprot/volumes/20/issues/9" target="_blank">cover</a> paper (Volume 20 Issue 9, September 2025)<br>
-      <img src="/img/coverphotos/2025_nat_pro_cover.png" style="width: 120%; max-width: 240px;" />
+→	Selected as the <a href="https://www.nature.com/nprot/volumes/20/issues/9" target="_blank">cover</a> paper (Volume 20 Issue 9, September 2025)
 <br>
 
 - <strong><u>Li, H.</u></strong> 2026. Proteogenomic dissection of kidney disease and cardiovascular-kidney-metabolic syndrome. <strong><u>Kidney International</u></strong>. (<a href="https://doi.org/10.1016/j.kint.2025.12.038" target="_blank">DOI</a>)

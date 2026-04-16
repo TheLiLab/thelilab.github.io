@@ -85,6 +85,21 @@ bigimg:
 
 <div style="display: flex; align-items: flex-start; font-size: 18px;">
   <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/img/peopleimg/silechen.jpg" style="width: 100%; max-width: 200px;" />
+  </div>
+  <div style="flex-grow: 1;">
+    <strong>Sile Chen (陈思乐)</strong><br>
+    <span style="font-size: 16px;">
+      Undergraduate Intern<br>
+    </span>
+    <span style="font-size: 14px;">
+      <br>Sile is an undergraduate at Shanghai Jiao Tong University, major in biological science (Zhiyuan Honors Program).
+    </span>
+  </div></div>
+<hr>
+
+<div style="display: flex; align-items: flex-start; font-size: 18px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
     <img src="/img/peopleimg/yitaofan.jpg" style="width: 100%; max-width: 200px;" />
   </div>
   <div style="flex-grow: 1;">

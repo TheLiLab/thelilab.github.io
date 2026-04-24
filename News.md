@@ -8,7 +8,7 @@ bigimg:
 ---
 
 <strong>4/16/2026</strong><br>
-Haikuo made a poster presentation at the 12th International Symposium on 3D Genomics in Xi’an! 
+Haikuo made a poster presentation at the 12th International Symposium on 3D Genomics in Xi’an.
 
 <strong>1/29/2026</strong><br>
 Haikuo has been officially appointed as a Research Professor (Full Professor equivalent) by Shanghai Jiao Tong University School of Medicine! 

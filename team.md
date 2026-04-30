@@ -120,7 +120,7 @@ bigimg:
   <div style="flex-grow: 1;">
     <strong>Qi Ru Soh</strong><br>
     <span style="font-size: 16px;">
-      Exchange undergraduate<br>
+      Exchange student<br>
     </span>
     <span style="font-size: 14px;">
       <br>"Hello! My name is Qi Ru, and I am currently a Y2 student from NUS. I am studying Pharmacy  right now and hoping to study Medicine after I graduate. I am interested in doing research that will help with advancements in the medical field and very happy to be working with the team!"

@@ -39,7 +39,7 @@ bigimg:
 <br>
 
 - <strong><u>Li, H.</u></strong>, Tao, B., Enninful, A. et al, 2026. Spatially decoding genotype-associated epigenetic landscapes in human lymphoma FFPE tissues via epi-Patho-DBiT. <strong><u>Nature Communications</u></strong>. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
-→	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/0Wey93u1f5awT6Po8-4cEA" target="_blank">Link</a>)<br>
+→	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/0Wey93u1f5awT6Po8-4cEA" target="_blank">Link</a>)
 <br>
 
 - <strong><u>Li, H.</u></strong> 2026. Proteogenomic dissection of kidney disease and cardiovascular-kidney-metabolic syndrome. <strong><u>Kidney International</u></strong>. (<a href="https://doi.org/10.1016/j.kint.2025.12.038" target="_blank">DOI</a>)
@@ -49,7 +49,7 @@ bigimg:
 ## All Publications
 
 (23) <strong><u>Li, H.</u></strong>, Tao, B., Enninful, A. et al, 2026. Spatially decoding genotype-associated epigenetic landscapes in human lymphoma FFPE tissues via epi-Patho-DBiT. <strong><u>Nature Communications</u></strong>. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
-→	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/0Wey93u1f5awT6Po8-4cEA" target="_blank">Link</a>)<br>
+→	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/0Wey93u1f5awT6Po8-4cEA" target="_blank">Link</a>)
 <br>
 
 (22) <strong><u>Li, H.</u></strong> 2026. Proteogenomic dissection of kidney disease and cardiovascular-kidney-metabolic syndrome. <strong><u>Kidney International</u></strong>. (<a href="https://doi.org/10.1016/j.kint.2025.12.038" target="_blank">DOI</a>)

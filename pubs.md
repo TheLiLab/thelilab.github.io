@@ -32,7 +32,7 @@ bigimg:
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/EZZC0j3wezH26dazQr_swQ" target="_blank">BioArt</a>; <a href="https://mp.weixin.qq.com/s/jdNkc0TlyETwB1TnJLkj0w" target="_blank">公众号</a>)
 <br>
 
-- <strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A.A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2025. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>, pp.1-35. (<a href="https://doi.org/10.1038/s41596-025-01145-9" target="_blank">DOI</a>)<br>
+- <strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A.A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2025. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>, 20(9), 2383-2417. (<a href="https://doi.org/10.1038/s41596-025-01145-9" target="_blank">DOI</a>)<br>
 →	Highlighted in <a href="https://doi.org/10.1038/s41596-025-01151-x" target="_blank">News & Views</a> of Nature Protocols<br>
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/Q2yN0I4A4jlegDBZDzEWVA" target="_blank">Link</a>)<br>
 →	Selected as the <a href="https://www.nature.com/nprot/volumes/20/issues/9" target="_blank">cover</a> paper (Volume 20 Issue 9, September 2025)
@@ -58,7 +58,7 @@ bigimg:
 (21) Malone, A.F., Paul, R., <strong><u>Li, H.</u></strong>, Leckie-Harre, A., Wu, H., Ledru, N., McPherson, G., Davies, H.B., Doty, T., Farney, A.C. and Jay, C.C., 2025. Mosaic Loss of Y Chromosome Defines a Proximal Tubular Cell State Associated with Recovery from DGF and of Allograft Quality and Functional Reserve Post DCD Kidney Transplantation. <strong><u>Annals of Surgery</u></strong>, pp.10-1097. (<a href="https://doi.org/10.1097/sla.0000000000006830" target="_blank">DOI</a>)
 <br>
 
-(20) <strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A.A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2025. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>, pp.1-35. (<a href="https://doi.org/10.1038/s41596-025-01145-9" target="_blank">DOI</a>)<br>
+(20) <strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A.A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2025. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>, 20(9), 2383-2417. (<a href="https://doi.org/10.1038/s41596-025-01145-9" target="_blank">DOI</a>)<br>
 →	Highlighted in <a href="https://doi.org/10.1038/s41596-025-01151-x" target="_blank">News & Views</a> of Nature Protocols<br>
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/Q2yN0I4A4jlegDBZDzEWVA" target="_blank">Link</a>)<br>
 →	Selected as the <a href="https://www.nature.com/nprot/volumes/20/issues/9" target="_blank">cover</a> paper (Volume 20 Issue 9, September 2025)<br>

@@ -6,6 +6,8 @@ bigimg:
 - "/img/road_pic.jpg"
 
 ---
+<strong>5/13/2026</strong><br>
+In collaboration with <a href="https://en.bme.sjtu.edu.cn/show-33-210.html" target="_blank">Dr. Qianru Wang</a> at Shanghai Jiao Tong University, we have received funding from SJTU Mingzhi Honors Program!
 
 <strong>4/16/2026</strong><br>
 Haikuo made a poster presentation at the 12th International Symposium on 3D Genomics in Xi’an.

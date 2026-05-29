@@ -33,7 +33,7 @@ navbar-links:
     - Dry Lab: "drylab"
     - Lab News: "News"
     - Faculty Page: "http://icr.shgh.cn/rctd_show.aspx?id=39"
-    - 招生界面: "https://daoshi.shsmu.edu.cn/dsxxgl/dsfc/grxx?newid=47328fa1-d4d0-4ea2-8823-675cae871c77&zsyx=724"
+    - 招生页面: "https://daoshi.shsmu.edu.cn/dsxxgl/dsfc/grxx?newid=47328fa1-d4d0-4ea2-8823-675cae871c77&zsyx=724"
     - Affiliated medical school: "https://eng.shgh.cn/"
 
 # Image to show in the navigation bar - image must be a square (width = height)

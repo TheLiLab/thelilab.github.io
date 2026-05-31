@@ -40,6 +40,10 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/haikuo_li_lab_logo_icon.jpg"
 
+# Favicon: the small website icon shown in browser tabs, bookmarks, and address bars. (.ico/.png or some other formats are OK)
+# Remove this parameter to use avatar as the favicon
+favicon: "/img/favicon.png"
+
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
 

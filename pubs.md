@@ -38,7 +38,7 @@ bigimg:
 →	Selected as the <a href="https://www.nature.com/nprot/volumes/20/issues/9" target="_blank">cover</a> paper (Volume 20 Issue 9, September 2025)
 <br>
 
-- <strong><u>Li, Haikuo</u></strong>, Bo Tao, Archibald Enninful, Dingyao Zhang, Yi Dai, Fiona Oh, Negin Farzad, Keyi Li, Zhiliang Bai, Xiaoyu Qin, Mingyu Yang, Emily J. Hwang, Jing Zhang, Jun Lu, Mark Gerstein, Jingtian Zhou, Mina L. Xu, and Rong Fan. 2026. “Spatially Decoding Genotype-Associated Epigenetic Landscapes in Human Lymphoma FFPE Tissues via Epi-Patho-DBiT.” <strong><u>Nature Communications</u></strong>. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
+- <strong><u>Haikuo, Li</u></strong>, Bo Tao, Archibald Enninful, Dingyao Zhang, Yi Dai, Fiona Oh, Negin Farzad, Keyi Li, Zhiliang Bai, Xiaoyu Qin, Mingyu Yang, Emily J. Hwang, Jing Zhang, Jun Lu, Mark Gerstein, Jingtian Zhou, Mina L. Xu, and Rong Fan. 2026. “Spatially Decoding Genotype-Associated Epigenetic Landscapes in Human Lymphoma FFPE Tissues via Epi-Patho-DBiT.” <strong><u>Nature Communications</u></strong>. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/0Wey93u1f5awT6Po8-4cEA" target="_blank">Link</a>)
 <br>
 
@@ -51,7 +51,7 @@ bigimg:
 (24) Farzad, Negin, Archibald Enninful, Yao Lu, Fabio Parisi, Anthony A. Fung, Yumi Kwon, Yajuan Li, Margaux Labrosse, Mingyu Yang, Francesco Strino, Liang Chen, Junchen Yang, Mei Zhong, Fu Gao, Bo Tao, Joseph Cunningham, Zhiliang Bai, <strong><u>Haikuo Li</u></strong>, Fang Wang, Michael Stankewich, Dongjoo Kim, Mingze Dong, Lisa M. Bramer, Keyi Li, Meera R. Bhat, Evan J. Loe, Joseph Craft, Ljiljana Pasa-Tolic, Stephanie Halene, Lingyan Shi, Yuval Kluger, Mina L. Xu, and Rong Fan. 2026. “A Spatial Multi-Omics Atlas of Immunosenescence Reveals Germinal-Center B Cell Alteration in Human Lymph Nodes.” <strong><u>Cell Press Blue</u></strong>. (<a href="https://doi.org/10.1016/j.cpblue.2026.100053" target="_blank">DOI</a>)
 <br>
 
-(23) <strong><u>Li, Haikuo#</u></strong>, Bo Tao#, Archibald Enninful, Dingyao Zhang, Yi Dai, Fiona Oh, Negin Farzad, Keyi Li, Zhiliang Bai, Xiaoyu Qin, Mingyu Yang, Emily J. Hwang, Jing Zhang, Jun Lu, Mark Gerstein, Jingtian Zhou, Mina L. Xu, and Rong Fan. 2026. “Spatially Decoding Genotype-Associated Epigenetic Landscapes in Human Lymphoma FFPE Tissues via Epi-Patho-DBiT.” <strong><u>Nature Communications</u></strong>. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
+(23) <strong><u>Haikuo, Li#</u></strong>, Bo Tao#, Archibald Enninful, Dingyao Zhang, Yi Dai, Fiona Oh, Negin Farzad, Keyi Li, Zhiliang Bai, Xiaoyu Qin, Mingyu Yang, Emily J. Hwang, Jing Zhang, Jun Lu, Mark Gerstein, Jingtian Zhou, Mina L. Xu, and Rong Fan. 2026. “Spatially Decoding Genotype-Associated Epigenetic Landscapes in Human Lymphoma FFPE Tissues via Epi-Patho-DBiT.” <strong><u>Nature Communications</u></strong>. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/0Wey93u1f5awT6Po8-4cEA" target="_blank">Link</a>)
 <br>
 

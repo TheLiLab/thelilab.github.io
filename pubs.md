@@ -69,9 +69,6 @@ bigimg:
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/Q2yN0I4A4jlegDBZDzEWVA" target="_blank">Link</a>)<br>
 →	Selected as the <a href="https://www.nature.com/nprot/volumes/20/issues/9" target="_blank">cover</a> paper (Volume 20 Issue 9, September 2025)<br>
 
-(19) Baysoy, A.#, Tian, X.#, Zhang, F.#, Renauer, P.#, Bai, Z., Shi, H., <strong><u>Li, H.</u></strong>, Tao, B., Yang, M., Enninful, A. and Gao, F., 2024. Spatially Resolved in vivo CRISPR Screen Sequencing via Perturb-DBiT. <strong><u>BioRxiv</u></strong>, pp.2024-11.
-<br>
-
 (18) Bai, Z.#, Zhang, D.#, Gao, Y.#, Tao, B.#, Zhang, D.#, Bao, S.#, Enninful, A., Wang, Y., <strong><u>Li, H.</u></strong>, Su, G. and Tian, X., Zhang, N., Xiao, Y., Liu, Y., Gerstein, M., Li, M., Xing, Y., Lu, J., Xu, ML. and Fan, R. 2024. Spatially exploring RNA biology in archival formalin-fixed paraffin-embedded tissues. <strong><u>Cell</u></strong>, 187(23), pp.6760-6779. ([DOI](https://doi.org/10.1016/j.cell.2024.09.001))
 <br>
 

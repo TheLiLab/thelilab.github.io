@@ -38,7 +38,7 @@ bigimg:
 →	Selected as the <a href="https://www.nature.com/nprot/volumes/20/issues/9" target="_blank">cover</a> paper (Volume 20 Issue 9, September 2025)
 <br>
 
-- <strong><u>Haikuo, Li</u></strong>, Bo Tao, Archibald Enninful, Dingyao Zhang, Yi Dai, Fiona Oh, Negin Farzad, Keyi Li, Zhiliang Bai, Xiaoyu Qin, Mingyu Yang, Emily J. Hwang, Jing Zhang, Jun Lu, Mark Gerstein, Jingtian Zhou, Mina L. Xu, and Rong Fan. 2026. “Spatially Decoding Genotype-Associated Epigenetic Landscapes in Human Lymphoma FFPE Tissues via Epi-Patho-DBiT.” <strong><u>Nature Communications</u></strong>. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
+- <strong><u>Li, H.</u></strong>, Tao, B., Enninful, A., Zhang, D., Dai, Y., Oh, F., Farzad, N., Li, K., Bai, Z., Qin, X., Yang, M., Hwang, E. J., Zhang, J., Lu, J., Gerstein, M., Zhou, J., Xu, M. L., & Fan, R. (2026). Spatially decoding genotype-associated epigenetic landscapes in human lymphoma FFPE tissues via epi-Patho-DBiT. <strong><u>Nature Communications</u></strong>. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/0Wey93u1f5awT6Po8-4cEA" target="_blank">Link</a>)
 <br>
 
@@ -48,20 +48,23 @@ bigimg:
 <hr>
 ## All Publications
 
-(24) Farzad, Negin, Archibald Enninful, Yao Lu, Fabio Parisi, Anthony A. Fung, Yumi Kwon, Yajuan Li, Margaux Labrosse, Mingyu Yang, Francesco Strino, Liang Chen, Junchen Yang, Mei Zhong, Fu Gao, Bo Tao, Joseph Cunningham, Zhiliang Bai, <strong><u>Haikuo Li</u></strong>, Fang Wang, Michael Stankewich, Dongjoo Kim, Mingze Dong, Lisa M. Bramer, Keyi Li, Meera R. Bhat, Evan J. Loe, Joseph Craft, Ljiljana Pasa-Tolic, Stephanie Halene, Lingyan Shi, Yuval Kluger, Mina L. Xu, and Rong Fan. 2026. “A Spatial Multi-Omics Atlas of Immunosenescence Reveals Germinal-Center B Cell Alteration in Human Lymph Nodes.” <strong><u>Cell Press Blue</u></strong>. (<a href="https://doi.org/10.1016/j.cpblue.2026.100053" target="_blank">DOI</a>)
+(24) Baysoy, A., Tian, X., Renauer, P., Zhang, F., Bai, Z., Shi, H., Yang, M., Zhang, D., Liu, M., <strong><u>Li, H.</u></strong>, Tao, B., Enninful, A., Lu, Y., Gao, F., Wang, G., Zhang, W., Tran, T., Patterson, N. H., Sheng, J., … Fan, R. (2026). Large-scale, spatially resolved panoramic CRISPR screening in native tissue environments using Perturb-DBiT. <strong><u>Nature Biotechnology</u></strong>. (<a href="https://doi.org/10.1038/s41587-026-03127-y" target="_blank">DOI</a>)
 <br>
 
-(23) <strong><u>Haikuo, Li#</u></strong>, Bo Tao#, Archibald Enninful, Dingyao Zhang, Yi Dai, Fiona Oh, Negin Farzad, Keyi Li, Zhiliang Bai, Xiaoyu Qin, Mingyu Yang, Emily J. Hwang, Jing Zhang, Jun Lu, Mark Gerstein, Jingtian Zhou, Mina L. Xu, and Rong Fan. 2026. “Spatially Decoding Genotype-Associated Epigenetic Landscapes in Human Lymphoma FFPE Tissues via Epi-Patho-DBiT.” <strong><u>Nature Communications</u></strong>. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
+(23) Farzad, N., Enninful, A., Lu, Y., Parisi, F., Fung, A. A., Kwon, Y., Li, Y., Labrosse, M., Yang, M., Strino, F., Chen, L., Yang, J., Zhong, M., Gao, F., Tao, B., Cunningham, J., Bai, Z., <strong><u>Li, H.</u></strong>, Wang, F., … Fan, R. (2026). A spatial multi-omics atlas of immunosenescence reveals germinal-center B cell alteration in human lymph nodes. <strong><u>Cell Press Blue</u></strong>. (<a href="https://doi.org/10.1016/j.cpblue.2026.100053" target="_blank">DOI</a>)
+<br>
+
+(22) <strong><u>Li, H.</u></strong>, Tao, B., Enninful, A., Zhang, D., Dai, Y., Oh, F., Farzad, N., Li, K., Bai, Z., Qin, X., Yang, M., Hwang, E. J., Zhang, J., Lu, J., Gerstein, M., Zhou, J., Xu, M. L., & Fan, R. (2026). Spatially decoding genotype-associated epigenetic landscapes in human lymphoma FFPE tissues via epi-Patho-DBiT. <strong><u>Nature Communications</u></strong>. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/0Wey93u1f5awT6Po8-4cEA" target="_blank">Link</a>)
 <br>
 
-(22) <strong><u>Li, H.</u></strong> 2026. Proteogenomic dissection of kidney disease and cardiovascular-kidney-metabolic syndrome. <strong><u>Kidney International</u></strong>. (<a href="https://doi.org/10.1016/j.kint.2025.12.038" target="_blank">DOI</a>)
+(21) <strong><u>Li, H.</u></strong> 2026. Proteogenomic dissection of kidney disease and cardiovascular-kidney-metabolic syndrome. <strong><u>Kidney International</u></strong>. (<a href="https://doi.org/10.1016/j.kint.2025.12.038" target="_blank">DOI</a>)
 <br>
 
-(21) Malone, A.F., Paul, R., <strong><u>Li, H.</u></strong>, Leckie-Harre, A., Wu, H., Ledru, N., McPherson, G., Davies, H.B., Doty, T., Farney, A.C. and Jay, C.C., 2025. Mosaic Loss of Y Chromosome Defines a Proximal Tubular Cell State Associated with Recovery from DGF and of Allograft Quality and Functional Reserve Post DCD Kidney Transplantation. <strong><u>Annals of Surgery</u></strong>, pp.10-1097. (<a href="https://doi.org/10.1097/sla.0000000000006830" target="_blank">DOI</a>)
+(20) Malone, A.F., Paul, R., <strong><u>Li, H.</u></strong>, Leckie-Harre, A., Wu, H., Ledru, N., McPherson, G., Davies, H.B., Doty, T., Farney, A.C. and Jay, C.C., 2025. Mosaic Loss of Y Chromosome Defines a Proximal Tubular Cell State Associated with Recovery from DGF and of Allograft Quality and Functional Reserve Post DCD Kidney Transplantation. <strong><u>Annals of Surgery</u></strong>, pp.10-1097. (<a href="https://doi.org/10.1097/sla.0000000000006830" target="_blank">DOI</a>)
 <br>
 
-(20) <strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A.A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2025. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>, 20(9), 2383-2417. (<a href="https://doi.org/10.1038/s41596-025-01145-9" target="_blank">DOI</a>)<br>
+(19) <strong><u>Li, H.</u></strong>, Bao, S., Farzad, N., Qin, X., Fung, A.A., Zhang, D., Bai, Z., Tao, B. and Fan, R., 2025. Spatially resolved genome-wide joint profiling of epigenome and transcriptome with spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq. <strong><u>Nature Protocols</u></strong>, 20(9), 2383-2417. (<a href="https://doi.org/10.1038/s41596-025-01145-9" target="_blank">DOI</a>)<br>
 →	Highlighted in <a href="https://doi.org/10.1038/s41596-025-01151-x" target="_blank">News & Views</a> of Nature Protocols<br>
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/Q2yN0I4A4jlegDBZDzEWVA" target="_blank">Link</a>)<br>
 →	Selected as the <a href="https://www.nature.com/nprot/volumes/20/issues/9" target="_blank">cover</a> paper (Volume 20 Issue 9, September 2025)<br>

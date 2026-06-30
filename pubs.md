@@ -48,20 +48,20 @@ bigimg:
 <hr>
 ## All Publications
 
-(25) Wu, J., Li, H., Tang, L., Zhao, C., Chen, X., Zhang, P., Yu, C., Wang, X., & Wang, L. (2026). Mg2+ modulates H3K27me3 demethylation via KDM6A to regulate myoblast differentiation and osteoclast crosstalk. <strong><u>Scientific Reports</u></strong>. (<a href="https://doi.org/10.1038/s41598-026-57101-4" target="_blank">DOI</a>)
+(25) Baysoy, A.#, Tian, X.#, Renauer, P.#, Zhang, F.#, Bai, Z., Shi, H., Yang, M., Zhang, D., Liu, M., <strong><u>Li, H.</u></strong>, Tao, B., Enninful, A., Lu, Y., Gao, F., Wang, G., Zhang, W., Tran, T., Patterson, N. H., Sheng, J., … Fan, R. (2026). Large-scale, spatially resolved panoramic CRISPR screening in native tissue environments using Perturb-DBiT. <strong><u>Nature Biotechnology</u></strong>. (<a href="https://doi.org/10.1038/s41587-026-03127-y" target="_blank">DOI</a>)
 <br>
 
-(24) Baysoy, A.#, Tian, X.#, Renauer, P.#, Zhang, F.#, Bai, Z., Shi, H., Yang, M., Zhang, D., Liu, M., <strong><u>Li, H.</u></strong>, Tao, B., Enninful, A., Lu, Y., Gao, F., Wang, G., Zhang, W., Tran, T., Patterson, N. H., Sheng, J., … Fan, R. (2026). Large-scale, spatially resolved panoramic CRISPR screening in native tissue environments using Perturb-DBiT. <strong><u>Nature Biotechnology</u></strong>. (<a href="https://doi.org/10.1038/s41587-026-03127-y" target="_blank">DOI</a>)
+(24) Farzad, N.#, Enninful, A.#, Lu, Y.#, Parisi, F.#, Fung, A. A.#, Kwon, Y.#, Li, Y., Labrosse, M., Yang, M., Strino, F., Chen, L., Yang, J., Zhong, M., Gao, F., Tao, B., Cunningham, J., Bai, Z., <strong><u>Li, H.</u></strong>, Wang, F., … Fan, R. (2026). A spatial multi-omics atlas of immunosenescence reveals germinal-center B cell alteration in human lymph nodes. <strong><u>Cell Press Blue</u></strong>. (<a href="https://doi.org/10.1016/j.cpblue.2026.100053" target="_blank">DOI</a>)
 <br>
 
-(23) Farzad, N.#, Enninful, A.#, Lu, Y.#, Parisi, F.#, Fung, A. A.#, Kwon, Y.#, Li, Y., Labrosse, M., Yang, M., Strino, F., Chen, L., Yang, J., Zhong, M., Gao, F., Tao, B., Cunningham, J., Bai, Z., <strong><u>Li, H.</u></strong>, Wang, F., … Fan, R. (2026). A spatial multi-omics atlas of immunosenescence reveals germinal-center B cell alteration in human lymph nodes. <strong><u>Cell Press Blue</u></strong>. (<a href="https://doi.org/10.1016/j.cpblue.2026.100053" target="_blank">DOI</a>)
-<br>
-
-(22) <strong><u>Li, H.</u></strong>#, Tao, B.#, Enninful, A., Zhang, D., Dai, Y., Oh, F., Farzad, N., Li, K., Bai, Z., Qin, X., Yang, M., Hwang, E. J., Zhang, J., Lu, J., Gerstein, M., Zhou, J., Xu, M. L., & Fan, R. (2026). Spatially decoding genotype-associated epigenetic landscapes in human lymphoma FFPE tissues via epi-Patho-DBiT. <strong><u>Nature Communications</u></strong>. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
+(23) <strong><u>Li, H.</u></strong>#, Tao, B.#, Enninful, A., Zhang, D., Dai, Y., Oh, F., Farzad, N., Li, K., Bai, Z., Qin, X., Yang, M., Hwang, E. J., Zhang, J., Lu, J., Gerstein, M., Zhou, J., Xu, M. L., & Fan, R. (2026). Spatially decoding genotype-associated epigenetic landscapes in human lymphoma FFPE tissues via epi-Patho-DBiT. <strong><u>Nature Communications</u></strong>. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/0Wey93u1f5awT6Po8-4cEA" target="_blank">Link</a>)
 <br>
 
-(21) <strong><u>Li, H.</u></strong>* 2026. Proteogenomic dissection of kidney disease and cardiovascular-kidney-metabolic syndrome. <strong><u>Kidney International</u></strong>. (<a href="https://doi.org/10.1016/j.kint.2025.12.038" target="_blank">DOI</a>)
+(22) <strong><u>Li, H.</u></strong>* 2026. Proteogenomic dissection of kidney disease and cardiovascular-kidney-metabolic syndrome. <strong><u>Kidney International</u></strong>. (<a href="https://doi.org/10.1016/j.kint.2025.12.038" target="_blank">DOI</a>)
+<br>
+
+(21) Wu, J.#, <strong><u>Li, H.#</u></strong>, Tang, L.#, Zhao, C., Chen, X., Zhang, P., Yu, C., Wang, X., & Wang, L. (2026). Mg2+ modulates H3K27me3 demethylation via KDM6A to regulate myoblast differentiation and osteoclast crosstalk. <strong><u>Scientific Reports</u></strong>. (<a href="https://doi.org/10.1038/s41598-026-57101-4" target="_blank">DOI</a>)
 <br>
 
 (20) Malone, A.F., Paul, R., <strong><u>Li, H.</u></strong>, Leckie-Harre, A., Wu, H., Ledru, N., McPherson, G., Davies, H.B., Doty, T., Farney, A.C. and Jay, C.C., 2025. Mosaic Loss of Y Chromosome Defines a Proximal Tubular Cell State Associated with Recovery from DGF and of Allograft Quality and Functional Reserve Post DCD Kidney Transplantation. <strong><u>Annals of Surgery</u></strong>, pp.10-1097. (<a href="https://doi.org/10.1097/sla.0000000000006830" target="_blank">DOI</a>)

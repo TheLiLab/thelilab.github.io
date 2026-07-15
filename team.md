@@ -46,10 +46,10 @@ bigimg:
   <div style="flex-grow: 1;">
     <strong>Yitao Fan (范逸涛)</strong><br>
     <span style="font-size: 16px;">
-      Visiting student<br>
+      Ph.D. student<br>
     </span>
     <span style="font-size: 14px;">
-      <br>Yitao obtained master's degree from UK University of Liverpool major in biostatistics. He will enter Macau University of Science and Technology as a Ph.D. student this summer jointly mentored by Prof. Quancai Sun.
+      <br>Yitao obtained master's degree from UK University of Liverpool major in biostatistics. Co-mentored by Prof. Quancai Sun, he is now a Ph.D. student at Macau University of Science and Technology.
     </span>
   </div></div>
 <hr>
@@ -65,6 +65,21 @@ bigimg:
     </span>
     <span style="font-size: 14px;">
       <br>Yin obtained his bachelor's and master's degrees from Shanghai Jiao Tong University School of Medicine, major in clinical medicine.
+    </span>
+  </div></div>
+<hr>
+
+<div style="display: flex; align-items: flex-start; font-size: 18px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/img/peopleimg/na.jpg" style="width: 100%; max-width: 200px;" />
+  </div>
+  <div style="flex-grow: 1;">
+    <strong>Hanyu Meng (孟晗玉)</strong><br>
+    <span style="font-size: 16px;">
+      Master student<br>
+    </span>
+    <span style="font-size: 14px;">
+      <br>Hanyu is a professional master's student at Shanghai Jiao Tong University School of Medicine major in clinical medicine, co-mentored by Prof. Shu Rong.
     </span>
   </div></div>
 <hr>

@@ -76,7 +76,7 @@ bigimg:
   <div style="flex-grow: 1;">
     <strong>Hanyu Meng (孟晗玉)</strong><br>
     <span style="font-size: 16px;">
-      Master student<br>
+      Master's student<br>
     </span>
     <span style="font-size: 14px;">
       <br>Hanyu is a professional master's student at Shanghai Jiao Tong University School of Medicine major in clinical medicine, co-mentored by Prof. Shu Rong.

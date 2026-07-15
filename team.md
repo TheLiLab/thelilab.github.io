@@ -49,7 +49,22 @@ bigimg:
       Visiting student<br>
     </span>
     <span style="font-size: 14px;">
-      <br>Yitao obtained master degree from UK University of Liverpool major in biostatistics. He will enter Macau University of Science and Technology as a Ph.D. student this summer jointly mentored by Prof. Quancai Sun.
+      <br>Yitao obtained master's degree from UK University of Liverpool major in biostatistics. He will enter Macau University of Science and Technology as a Ph.D. student this summer jointly mentored by Prof. Quancai Sun.
+    </span>
+  </div></div>
+<hr>
+
+<div style="display: flex; align-items: flex-start; font-size: 18px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/img/peopleimg/na.jpg" style="width: 100%; max-width: 200px;" />
+  </div>
+  <div style="flex-grow: 1;">
+    <strong>Yin Li (李寅)</strong><br>
+    <span style="font-size: 16px;">
+      Ph.D. student<br>
+    </span>
+    <span style="font-size: 14px;">
+      <br>Yin obtained his bachelor's and master's degrees from Shanghai Jiao Tong University School of Medicine, major in clinical medicine.
     </span>
   </div></div>
 <hr>

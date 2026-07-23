@@ -48,7 +48,7 @@ bigimg:
       Postdoctoral Fellow<br>
     </span>
     <span style="font-size: 14px;">
-      <br>Wenqing obtained Ph.D from Northeast Normal University major in genetics, with expertise in RNA structural biology, RNA omics and plant biology.
+      <br>Wenqing obtained Ph.D from Northeast Normal University major in genetics, with expertise in RNA structural biology, RNA omics.
     </span>
   </div></div>
 <hr>

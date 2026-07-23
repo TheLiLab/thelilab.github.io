@@ -38,11 +38,11 @@ bigimg:
 →	Selected as the <a href="https://www.nature.com/nprot/volumes/20/issues/9" target="_blank">cover</a> paper (Volume 20 Issue 9, September 2025)
 <br>
 
-- <strong><u>Li, H.</u></strong>, Tao, B., Enninful, A., Zhang, D., Dai, Y., Oh, F., Farzad, N., Li, K., Bai, Z., Qin, X., Yang, M., Hwang, E. J., Zhang, J., Lu, J., Gerstein, M., Zhou, J., Xu, M. L., & Fan, R. (2026). Spatially decoding genotype-associated epigenetic landscapes in human lymphoma FFPE tissues via epi-Patho-DBiT. <strong><u>Nature Communications</u></strong>. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
+- <strong><u>Li, H.</u></strong>, Tao, B., Enninful, A., Zhang, D., Dai, Y., Oh, F., Farzad, N., Li, K., Bai, Z., Qin, X., Yang, M., Hwang, E. J., Zhang, J., Lu, J., Gerstein, M., Zhou, J., Xu, M. L., & Fan, R. (2026). Spatially decoding genotype-associated epigenetic landscapes in human lymphoma FFPE tissues via epi-Patho-DBiT. <strong><u>Nature Communications</u></strong>, 17, 5924. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/0Wey93u1f5awT6Po8-4cEA" target="_blank">Link</a>)
 <br>
 
-- <strong><u>Li, H.</u></strong> 2026. Proteogenomic dissection of kidney disease and cardiovascular-kidney-metabolic syndrome. <strong><u>Kidney International</u></strong>. (<a href="https://doi.org/10.1016/j.kint.2025.12.038" target="_blank">DOI</a>)
+- <strong><u>Li, H.</u></strong> 2026. Proteogenomic dissection of kidney disease and cardiovascular-kidney-metabolic syndrome. <strong><u>Kidney International</u></strong>, 110(1), 19-22. (<a href="https://doi.org/10.1016/j.kint.2025.12.038" target="_blank">DOI</a>)
 <br>
 
 <hr>
@@ -54,11 +54,11 @@ bigimg:
 (24) Farzad, N.#, Enninful, A.#, Lu, Y.#, Parisi, F.#, Fung, A. A.#, Kwon, Y.#, Li, Y., Labrosse, M., Yang, M., Strino, F., Chen, L., Yang, J., Zhong, M., Gao, F., Tao, B., Cunningham, J., Bai, Z., <strong><u>Li, H.</u></strong>, Wang, F., … Fan, R. (2026). A spatial multi-omics atlas of immunosenescence reveals germinal-center B cell alteration in human lymph nodes. <strong><u>Cell Press Blue</u></strong>. (<a href="https://doi.org/10.1016/j.cpblue.2026.100053" target="_blank">DOI</a>)
 <br>
 
-(23) <strong><u>Li, H.</u></strong>#, Tao, B.#, Enninful, A., Zhang, D., Dai, Y., Oh, F., Farzad, N., Li, K., Bai, Z., Qin, X., Yang, M., Hwang, E. J., Zhang, J., Lu, J., Gerstein, M., Zhou, J., Xu, M. L., & Fan, R. (2026). Spatially decoding genotype-associated epigenetic landscapes in human lymphoma FFPE tissues via epi-Patho-DBiT. <strong><u>Nature Communications</u></strong>. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
+(23) <strong><u>Li, H.</u></strong>#, Tao, B.#, Enninful, A., Zhang, D., Dai, Y., Oh, F., Farzad, N., Li, K., Bai, Z., Qin, X., Yang, M., Hwang, E. J., Zhang, J., Lu, J., Gerstein, M., Zhou, J., Xu, M. L., & Fan, R. (2026). Spatially decoding genotype-associated epigenetic landscapes in human lymphoma FFPE tissues via epi-Patho-DBiT. <strong><u>Nature Communications</u></strong>, 17, 5924. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/0Wey93u1f5awT6Po8-4cEA" target="_blank">Link</a>)
 <br>
 
-(22) <strong><u>Li, H.</u></strong>* 2026. Proteogenomic dissection of kidney disease and cardiovascular-kidney-metabolic syndrome. <strong><u>Kidney International</u></strong>. (<a href="https://doi.org/10.1016/j.kint.2025.12.038" target="_blank">DOI</a>)
+(22) <strong><u>Li, H.</u></strong>* 2026. Proteogenomic dissection of kidney disease and cardiovascular-kidney-metabolic syndrome. <strong><u>Kidney International</u></strong>, 110(1), 19-22. (<a href="https://doi.org/10.1016/j.kint.2025.12.038" target="_blank">DOI</a>)
 <br>
 
 (21) Wu, J.#, <strong><u>Li, H.#</u></strong>, Tang, L.#, Zhao, C., Chen, X., Zhang, P., Yu, C., Wang, X., & Wang, L. (2026). Mg2+ modulates H3K27me3 demethylation via KDM6A to regulate myoblast differentiation and osteoclast crosstalk. <strong><u>Scientific Reports</u></strong>. (<a href="https://doi.org/10.1038/s41598-026-57101-4" target="_blank">DOI</a>)

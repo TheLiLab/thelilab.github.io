@@ -38,6 +38,20 @@ bigimg:
   </div></div>
 <hr>
 
+<div style="display: flex; align-items: flex-start; font-size: 18px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/img/peopleimg/na.jpg" style="width: 100%; max-width: 200px;" />
+  </div>
+  <div style="flex-grow: 1;">
+    <strong>Wenqing Sun (孙文青)</strong><br>
+    <span style="font-size: 16px;">
+      Postdoctoral Fellow<br>
+    </span>
+    <span style="font-size: 14px;">
+      <br>Wenqing obtained Ph.D from Northeast Normal University major in genetics, with background in RNA structural biology and RNA omics.
+    </span>
+  </div></div>
+<hr>
 
 <div style="display: flex; align-items: flex-start; font-size: 18px;">
   <div style="flex-shrink: 0; margin-right: 20px;">
@@ -131,21 +145,6 @@ bigimg:
 
 <div style="display: flex; align-items: flex-start; font-size: 18px;">
   <div style="flex-shrink: 0; margin-right: 20px;">
-    <img src="/img/peopleimg/qirusoh.jpg" style="width: 100%; max-width: 200px;" />
-  </div>
-  <div style="flex-grow: 1;">
-    <strong>Qi Ru Soh</strong><br>
-    <span style="font-size: 16px;">
-      Exchange student<br>
-    </span>
-    <span style="font-size: 14px;">
-      <br>"Hello! My name is Qi Ru, and I am currently a Y2 student from NUS. I am studying Pharmacy  right now and hoping to study Medicine after I graduate. I am interested in doing research that will help with advancements in the medical field and very happy to be working with the team!"
-    </span>
-  </div></div>
-<hr>
-
-<div style="display: flex; align-items: flex-start; font-size: 18px;">
-  <div style="flex-shrink: 0; margin-right: 20px;">
     <img src="/img/peopleimg/diandian202605.jpg" style="width: 100%; max-width: 200px;" />
   </div>
   <div style="flex-grow: 1;">
@@ -162,3 +161,4 @@ bigimg:
 <strong>Alumni</strong><br>
 <span style="font-size: 14px;">
 Xinyu Zhao (赵欣宇): Technician (2025-2026); Ph.D. student at University of Gothenburg, Sweden<br>
+Qi Ru Soh: Exchange student (2026); NUS undergraduate, Singapore<br>

@@ -7,7 +7,7 @@ bigimg:
 
 ---
 <strong>7/23/2026</strong><br>
-Qi Ru Soh made a wonderful presentation at the end of her summer exchange program. Best wishes to her future study!
+Qi Ru Soh made a wonderful presentation at the end of her summer exchange program. Best wishes to her future study!<br>
     <img src="/img/random_images/2026_qiru_talk.jpg" style="width: 100%; max-width: 300px;" />
 
 <strong>5/13/2026</strong><br>

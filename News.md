@@ -20,6 +20,9 @@ In collaboration with Dr. Qianru Wang at Shanghai Jiao Tong University, we have 
 <strong>4/16/2026</strong><br>
 Haikuo made a poster presentation at the 12th International Symposium on 3D Genomics in Xi’an.
 
+<strong>2/19/2026</strong><br>
+New paper online! Haikuo's commentary manuscript has been published on Kidney International (<a href="https://doi.org/10.1016/j.kint.2025.12.038" target="_blank">DOI</a>).
+
 <strong>1/29/2026</strong><br>
 Haikuo has been officially appointed as a Research Professor (Full Professor equivalent) by Shanghai Jiao Tong University School of Medicine! 
 

@@ -29,9 +29,9 @@ navbar-links:
   Team: "team"
   Join us: "joinus"
   Resources:
+    - Lab News: "News"
     - Wet Lab: "wetlab"
     - Dry Lab: "drylab"
-    - Lab News: "News"
     - Faculty Page: "http://icr.shgh.cn/rctd_show.aspx?id=39"
     - 招生页面: "https://daoshi.shsmu.edu.cn/dsxxgl/dsfc/grxx?newid=47328fa1-d4d0-4ea2-8823-675cae871c77&zsyx=724"
     - Affiliated medical school: "https://eng.shgh.cn/"

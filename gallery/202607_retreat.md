@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 2026/7 Lab Retreat
+title: 2026 Lab Retreat
 bigimg:
 
-- "/img/2026retreat_img/4.jpg" : "Ride share: The best science images of 2024 picked by Nature (《奇妙搭档》by Enric Gener)"
+- "/img/2026retreat_img/4.jpg" : ""
 
 ---
 <img src="/img/2026retreat_img/1.jpg" style="width: 100%; max-width: 800px;" /><br>

@@ -3,11 +3,12 @@ layout: page
 title: 2026 Lab Retreat
 bigimg:
 
-- "/img/2026retreat_img/5.jpg" : "2026/7/24-2026/7/25，上海佘山轰趴"
+- "/img/2026retreat_img/6.jpg" : "2026/7/24-2026/7/25，上海佘山轰趴"
 
 ---
 <img src="/img/2026retreat_img/3.jpg" style="width: 100%; max-width: 800px;" /><br>
 <img src="/img/2026retreat_img/4.jpg" style="width: 100%; max-width: 800px;" /><br>
+<img src="/img/2026retreat_img/6.jpg" style="width: 100%; max-width: 800px;" /><br>
 <img src="/img/2026retreat_img/1.jpg" style="width: 100%; max-width: 800px;" /><br>
 <img src="/img/2026retreat_img/2.jpg" style="width: 100%; max-width: 800px;" /><br>
 <img src="/img/2026retreat_img/5.jpg" style="width: 100%; max-width: 800px;" /><br>
@@ -19,3 +20,4 @@ bigimg:
 <img src="/img/2026retreat_img/IMG_2799.JPG" style="width: 100%; max-width: 800px;" /><br>
 <img src="/img/2026retreat_img/IMG_2802.JPG" style="width: 100%; max-width: 800px;" /><br>
 <img src="/img/2026retreat_img/IMG_2803.JPG" style="width: 100%; max-width: 800px;" /><br>
+<img src="/img/2026retreat_img/7.jpg" style="width: 100%; max-width: 800px;" /><br>

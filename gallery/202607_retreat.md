@@ -3,7 +3,7 @@ layout: page
 title: 2026 Lab Retreat
 bigimg:
 
-- "/img/2026retreat_img/4.jpg" : ""
+- "/img/2026retreat_img/4.jpg" : "2026/7/24-2026/7/25，上海佘山轰趴"
 
 ---
 <img src="/img/2026retreat_img/1.jpg" style="width: 100%; max-width: 800px;" /><br>

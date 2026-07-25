@@ -6,8 +6,12 @@ bigimg:
 - "/img/road_pic.jpg"
 
 ---
+<strong>7/25/2026</strong><br>
+We had a wonderful 2-day lab retreat at Sheshan Town! Fabulous talks given by group members and lots of fun with board games, table tennis, Mahjong and Nintendo video games!<br>
+    <img src="/img/2026retreat_img/1.jpg" style="width: 100%; max-width: 300px;" /> (more pictures)
+
 <strong>7/23/2026</strong><br>
-Qi Ru Soh made a wonderful presentation at the end of her summer exchange program. Best wishes to her future study at NUS Singapore!<br>
+Qi Ru Soh made a great presentation at the end of her summer exchange program. Best wishes to her future study at NUS Singapore!<br>
     <img src="/img/random_images/2026_qiru_talk.jpg" style="width: 100%; max-width: 300px;" />
 
 <strong>5/13/2026</strong><br>

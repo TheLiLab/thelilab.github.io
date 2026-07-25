@@ -8,9 +8,7 @@ bigimg:
 ---
 <strong>7/23/2026</strong><br>
 Qi Ru Soh made a wonderful presentation at the end of her summer exchange program. Best wishes to her future study!
-  <div style="flex-shrink: 0; margin-right: 20px;">
-    <img src="/img/random_images/2026_qiru_talk.jpg" style="width: 100%; max-width: 200px;" />
-  </div>
+    <img src="/img/random_images/2026_qiru_talk.jpg" style="width: 100%; max-width: 300px;" />
 
 <strong>5/13/2026</strong><br>
 In collaboration with Dr. Qianru Wang at Shanghai Jiao Tong University, we have received funding from SJTU Mingzhi Honors Program!

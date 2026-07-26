@@ -28,8 +28,8 @@ navbar-links:
   Publications: "pubs"
   Team: "team"
   Lab News: "News"
-  Join us: "joinus"
   Resources:
+    - Join us: "joinus"
     - Wet Lab: "wetlab"
     - Dry Lab: "drylab"
     - Faculty Page: "http://icr.shgh.cn/rctd_show.aspx?id=39"

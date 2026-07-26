@@ -16,7 +16,7 @@ bigimg:
 <img src="/img/2026retreat_img/IMG_2775.JPG" style="width: 100%; max-width: 800px;" /><br>
 <img src="/img/2026retreat_img/IMG_2779.JPG" style="width: 100%; max-width: 800px;" /><br>
 <img src="/img/2026retreat_img/IMG_2780.JPG" style="width: 100%; max-width: 800px;" /><br>
-<img src="/img/2026retreat_img/IMG_2793.JPG" style="width: 100%; max-width: 800px;" /><br>
+<img src="/img/2026retreat_img/IMG_2789.JPG" style="width: 100%; max-width: 800px;" /><br>
 <img src="/img/2026retreat_img/IMG_2799.JPG" style="width: 100%; max-width: 800px;" /><br>
 <img src="/img/2026retreat_img/IMG_2802.JPG" style="width: 100%; max-width: 800px;" /><br>
 <img src="/img/2026retreat_img/IMG_2803.JPG" style="width: 100%; max-width: 800px;" /><br>

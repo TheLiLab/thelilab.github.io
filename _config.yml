@@ -27,7 +27,7 @@ navbar-links:
   Research: "research"
   Publications: "pubs"
   Team: "team"
-  Lab News: "News"
+  News: "News"
   Resources:
     - Join us: "joinus"
     - Wet Lab: "wetlab"

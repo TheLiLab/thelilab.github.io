@@ -51,7 +51,7 @@ bigimg:
 (25) Baysoy, A.#, Tian, X.#, Renauer, P.#, Zhang, F.#, Bai, Z., Shi, H., Yang, M., Zhang, D., Liu, M., <strong><u>Li, H.</u></strong>, Tao, B., Enninful, A., Lu, Y., Gao, F., Wang, G., Zhang, W., Tran, T., Patterson, N. H., Sheng, J., … Fan, R. (2026). Large-scale, spatially resolved panoramic CRISPR screening in native tissue environments using Perturb-DBiT. <strong><u>Nature Biotechnology</u></strong>. (<a href="https://doi.org/10.1038/s41587-026-03127-y" target="_blank">DOI</a>)
 <br>
 
-(24) Farzad, N.#, Enninful, A.#, Lu, Y.#, Parisi, F.#, Fung, A. A.#, Kwon, Y.#, Li, Y., Labrosse, M., Yang, M., Strino, F., Chen, L., Yang, J., Zhong, M., Gao, F., Tao, B., Cunningham, J., Bai, Z., <strong><u>Li, H.</u></strong>, Wang, F., … Fan, R. (2026). A spatial multi-omics atlas of immunosenescence reveals germinal-center B cell alteration in human lymph nodes. <strong><u>Cell Press Blue</u></strong>. (<a href="https://doi.org/10.1016/j.cpblue.2026.100053" target="_blank">DOI</a>)
+(24) Farzad, N.#, Enninful, A.#, Lu, Y.#, Parisi, F.#, Fung, A. A.#, Kwon, Y.#, Li, Y., Labrosse, M., Yang, M., Strino, F., Chen, L., Yang, J., Zhong, M., Gao, F., Tao, B., Cunningham, J., Bai, Z., <strong><u>Li, H.</u></strong>, Wang, F., … Fan, R. (2026). A spatial multi-omics atlas of immunosenescence reveals germinal-center B cell alteration in human lymph nodes. <strong><u>Cell Press Blue</u></strong>, 1(4), Article 100053 (<a href="https://doi.org/10.1016/j.cpblue.2026.100053" target="_blank">DOI</a>)
 <br>
 
 (23) <strong><u>Li, H.</u></strong>#, Tao, B.#, Enninful, A., Zhang, D., Dai, Y., Oh, F., Farzad, N., Li, K., Bai, Z., Qin, X., Yang, M., Hwang, E. J., Zhang, J., Lu, J., Gerstein, M., Zhou, J., Xu, M. L., & Fan, R. (2026). Spatially decoding genotype-associated epigenetic landscapes in human lymphoma FFPE tissues via epi-Patho-DBiT. <strong><u>Nature Communications</u></strong>, 17, 5924. (<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">DOI</a>)<br>
@@ -75,20 +75,20 @@ bigimg:
 (18) Bai, Z.#, Zhang, D.#, Gao, Y.#, Tao, B.#, Zhang, D.#, Bao, S.#, Enninful, A., Wang, Y., <strong><u>Li, H.</u></strong>, Su, G. and Tian, X., Zhang, N., Xiao, Y., Liu, Y., Gerstein, M., Li, M., Xing, Y., Lu, J., Xu, ML. and Fan, R. 2024. Spatially exploring RNA biology in archival formalin-fixed paraffin-embedded tissues. <strong><u>Cell</u></strong>, 187(23), pp.6760-6779. ([DOI](https://doi.org/10.1016/j.cell.2024.09.001))
 <br>
 
-(17) Zhao, C.#, Rong, K.#, Liu, P.#, Kong, K., <strong><u>Li, H.</u></strong>, Zhang, P., Chen, X., Fu, Q. and Wang, X., 2024. Preventing periprosthetic osteolysis in aging populations through lymphatic activation and stem cell-associated secretory phenotype inhibition. <strong><u>Communications Biology</u></strong>, 7(1), p.962. ([DOI](https://doi.org/10.1038/s42003-024-06664-x))
+(17) Zhao, C.#, Rong, K.#, Liu, P.#, Kong, K., <strong><u>Li, H.</u></strong>, Zhang, P., Chen, X., Fu, Q. and Wang, X., 2024. Preventing periprosthetic osteolysis in aging populations through lymphatic activation and stem cell-associated secretory phenotype inhibition. <strong><u>Communications Biology</u></strong>, 7(1), Article 962. ([DOI](https://doi.org/10.1038/s42003-024-06664-x))
 <br>
 
-(16) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2024. Protocol for multimodal profiling of human kidneys with simultaneous high-throughput ATAC and RNA expression with sequencing. <strong><u>STAR Protocols</u></strong>, 5(3), p.103049. ([DOI](https://doi.org/10.1016/j.xpro.2024.103049))
+(16) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2024. Protocol for multimodal profiling of human kidneys with simultaneous high-throughput ATAC and RNA expression with sequencing. <strong><u>STAR Protocols</u></strong>, 5(3), Article 103049. ([DOI](https://doi.org/10.1016/j.xpro.2024.103049))
 <br>
 
 (15) <strong><u>Li, H.</u></strong>#, Li, D.# and Humphreys, B.D., 2024. Chromatin conformation and histone modification profiling across human kidney anatomic regions. <strong><u>Scientific Data</u></strong>, 11(1), p.797. (<a href="https://doi.org/10.1038/s41597-024-03648-8" target="_blank">DOI</a>)<br>
 →	Highlighted in the collection of <a href="https://www.nature.com/collections/fehdjjbjce" target="_blank">Data for epigenetics research</a>
 <br>
 
-(14) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2024. Spatially resolved metabolomic dataset of distinct human kidney anatomic regions. <strong><u>Data in Brief</u></strong>, 54, p.110431. ([DOI](https://doi.org/10.1016/j.dib.2024.110431))
+(14) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2024. Spatially resolved metabolomic dataset of distinct human kidney anatomic regions. <strong><u>Data in Brief</u></strong>, 54, Article 110431. ([DOI](https://doi.org/10.1016/j.dib.2024.110431))
 <br>
 
-(13) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2024. Multimodal characterization of sexual dimorphism in the mammalian kidney. <strong><u>Kidney International</u></strong>, 105(4), pp.653-655. ([DOI](https://doi.org/10.1016/j.kint.2023.11.017))
+(13) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2024. Multimodal characterization of sexual dimorphism in the mammalian kidney. <strong><u>Kidney International</u></strong>, 105(4), 653-655. ([DOI](https://doi.org/10.1016/j.kint.2023.11.017))
 <br>
 
 (12) <strong><u>Li, H.</u></strong>, Li, D., Ledru, N., Xuanyuan, Q., Wu, H., Asthana, A., Byers, L.N., Tullius, S.G., Orlando, G., Waikar, S.S. and Humphreys, B.D., 2024. Transcriptomic, epigenomic, and spatial metabolomic cell profiling redefines regional human kidney anatomy. <strong><u>Cell Metabolism</u></strong>, 36(5), pp.1105-1125.  (<a href="https://doi.org/10.1016/j.cmet.2024.02.015" target="_blank">DOI</a>)<br>
@@ -97,21 +97,21 @@ bigimg:
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/EZZC0j3wezH26dazQr_swQ" target="_blank">BioArt</a>; <a href="https://mp.weixin.qq.com/s/jdNkc0TlyETwB1TnJLkj0w" target="_blank">公众号</a>)
 <br>
 
-(11) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2024. Targeting de novo lipogenesis to mitigate kidney disease. <strong><u>The Journal of Clinical Investigation</u></strong>, 134(4). ([DOI](https://doi.org/10.1172/JCI178125))
+(11) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2024. Targeting de novo lipogenesis to mitigate kidney disease. <strong><u>The Journal of Clinical Investigation</u></strong>, 134(4), Article e178125. ([DOI](https://doi.org/10.1172/JCI178125))
 <br>
 
 (10) Wilson, P.C., Verma, A., Yoshimura, Y., Muto, Y., <strong><u>Li, H.</u></strong>, Malvin, N.P., Dixon, E.E. and Humphreys, B.D., 2024. Mosaic loss of Y chromosome is associated with aging and epithelial injury in chronic kidney disease. <strong><u>Genome biology</u></strong>, 25(1), p.36. ([DOI](https://doi.org/10.1186/s13059-024-03173-2))
 <br>
 
-(9) Wang, J.#, Ku, X.#, Ma, Q.#, <strong><u>Li, H.</u></strong>#, Huang, S.#, Mao, L., Yu, F., Jin, J. and Yan, W., 2024. Hsa_circ_0007099 and PIP4K2A coexpressed in diffuse large B-cell lymphoma with clinical significance. <strong><u>Genes & Diseases</u></strong>, 11(4), p.101056. ([DOI](https://doi.org/10.1016/j.gendis.2023.06.025))
+(9) Wang, J.#, Ku, X.#, Ma, Q.#, <strong><u>Li, H.</u></strong>#, Huang, S.#, Mao, L., Yu, F., Jin, J. and Yan, W., 2024. Hsa_circ_0007099 and PIP4K2A coexpressed in diffuse large B-cell lymphoma with clinical significance. <strong><u>Genes & Diseases</u></strong>, 11(4), Article 101056. ([DOI](https://doi.org/10.1016/j.gendis.2023.06.025))
 <br>
 
-(8) Ku, X.#, Wang, J.#, <strong><u>Li, H.</u></strong>#, Meng, C., Yu, F., Yu, W., Li, Z., Zhou, Z., Zhang, C., Hua, Y. and Yan, W., 2023. Proteomic portrait of human lymphoma reveals protein molecular fingerprint of disease specific subtypes and progression. <strong><u>Phenomics</u></strong>, 3(2), pp.148-166. ([DOI](https://doi.org/10.1007/s43657-022-00075-w))
+(8) Ku, X.#, Wang, J.#, <strong><u>Li, H.</u></strong>#, Meng, C., Yu, F., Yu, W., Li, Z., Zhou, Z., Zhang, C., Hua, Y. and Yan, W., 2023. Proteomic portrait of human lymphoma reveals protein molecular fingerprint of disease specific subtypes and progression. <strong><u>Phenomics</u></strong>, 3(2), 148-166. ([DOI](https://doi.org/10.1007/s43657-022-00075-w))
 <br>
 
-(7) Cheng, Z. et al. (special journal issue; author list alphabetically ordered) (2023). RNA-seq: questions and answers. <strong><u>STAR Protocols</u></strong>. ([link](https://star-protocols.cell.com/protocols/2648))<br>
+(7) Cheng, Z. et al. (special journal issue; author list alphabetically ordered) (2023). RNA-seq: questions and answers. <strong><u>STAR Protocols</u></strong>. ([link](https://doi.org/10.1016/j.xpro.2026.104647))<br>
 
-(6) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2022. Mouse kidney nuclear isolation and library preparation for single-cell combinatorial indexing RNA sequencing. <strong><u>STAR Protocols</u></strong>, 3(4), p.101904. ([DOI](https://doi.org/10.1016/j.xpro.2022.101904))
+(6) <strong><u>Li, H.</u></strong> and Humphreys, B.D., 2022. Mouse kidney nuclear isolation and library preparation for single-cell combinatorial indexing RNA sequencing. <strong><u>STAR Protocols</u></strong>, 3(4), Article 101904. ([DOI](https://doi.org/10.1016/j.xpro.2022.101904))
 <br>
 
 (5) <strong><u>Li, H.</u></strong>, Dixon, E.E., Wu, H. and Humphreys, B.D., 2022. Comprehensive single-cell transcriptional profiling defines shared and unique epithelial injury responses during kidney fibrosis. <strong><u>Cell Metabolism</u></strong>, 34(12), pp.1977-1998. (<a href="https://doi.org/10.1016/j.cmet.2022.09.026" target="_blank">DOI</a>)<br>

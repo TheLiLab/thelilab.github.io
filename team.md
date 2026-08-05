@@ -25,21 +25,6 @@ bigimg:
 
 <div style="display: flex; align-items: flex-start; font-size: 18px;">
   <div style="flex-shrink: 0; margin-right: 20px;">
-    <img src="/img/peopleimg/pingli.jpg" style="width: 100%; max-width: 200px;" />
-  </div>
-  <div style="flex-grow: 1;">
-    <strong>Ping Li (李萍)</strong><br>
-    <span style="font-size: 16px;">
-      Research Technician<br>
-    </span>
-    <span style="font-size: 14px;">
-      <br>Ping is a research technician in the lab with expertise in pharmacology, animal models and clinical pharmacy.
-    </span>
-  </div></div>
-<hr>
-
-<div style="display: flex; align-items: flex-start; font-size: 18px;">
-  <div style="flex-shrink: 0; margin-right: 20px;">
     <img src="/img/peopleimg/wenqingsun.jpg" style="width: 100%; max-width: 200px;" />
   </div>
   <div style="flex-grow: 1;">
@@ -49,6 +34,21 @@ bigimg:
     </span>
     <span style="font-size: 14px;">
       <br>Wenqing obtained Ph.D from Northeast Normal University major in genetics, with expertise in RNA structural biology and RNA omics.
+    </span>
+  </div></div>
+<hr>
+
+<div style="display: flex; align-items: flex-start; font-size: 18px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/img/peopleimg/pingli.jpg" style="width: 100%; max-width: 200px;" />
+  </div>
+  <div style="flex-grow: 1;">
+    <strong>Ping Li (李萍)</strong><br>
+    <span style="font-size: 16px;">
+      Research Technician<br>
+    </span>
+    <span style="font-size: 14px;">
+      <br>Ping is a research technician in the lab with expertise in pharmacology, animal models and clinical pharmacy.
     </span>
   </div></div>
 <hr>
@@ -115,21 +115,6 @@ bigimg:
 
 <div style="display: flex; align-items: flex-start; font-size: 18px;">
   <div style="flex-shrink: 0; margin-right: 20px;">
-    <img src="/img/peopleimg/zhuochen.jpg" style="width: 100%; max-width: 200px;" />
-  </div>
-  <div style="flex-grow: 1;">
-    <strong>Zhuo Chen (陈着)</strong><br>
-    <span style="font-size: 16px;">
-      Undergraduate Intern<br>
-    </span>
-    <span style="font-size: 14px;">
-      <br>Zhuo is an undergraduate at Shanghai Jiao Tong University School of Medicine, major in clinical medicine.
-    </span>
-  </div></div>
-<hr>
-
-<div style="display: flex; align-items: flex-start; font-size: 18px;">
-  <div style="flex-shrink: 0; margin-right: 20px;">
     <img src="/img/peopleimg/silechen.jpg" style="width: 100%; max-width: 200px;" />
   </div>
   <div style="flex-grow: 1;">
@@ -162,3 +147,4 @@ bigimg:
 <span style="font-size: 14px;">
 Xinyu Zhao (赵欣宇): Technician (2025-2026); Ph.D. student at University of Gothenburg, Sweden<br>
 Qi Ru Soh: Exchange student (2026); NUS undergraduate, Singapore<br>
+Zhuo Chen: Undergraduate intern (2025-2026); Shanghai Jiao Tong University School of Medicine <br>

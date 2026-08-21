@@ -8,6 +8,9 @@ bigimg:
 - "/img/random_images/2024nature_penguin.png" : "Leap of faith: The best science images of 2024 picked by Nature [《信念一跃》by National Geographic/Bertie Gregory（我觉得它应该是被别的企鹅挤下去的）]"
 
 ---
+<strong>8/21/2026</strong><br>
+We held a farewell party for members who are going to move to new work places. See you soon in the future!
+
 <strong>7/25/2026</strong><br>
 We had a wonderful 2-day lab retreat at Sheshan Town! Fabulous talks given by group members and lots of fun with board games, table tennis, Mahjong and Nintendo video games! (<a href="https://thelilab.github.io/gallery/202607_retreat/" target="_blank">more pictures</a>)<br>
     <img src="/img/2026retreat_img/1.jpg" style="width: 100%; max-width: 300px;" />

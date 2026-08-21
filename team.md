@@ -147,5 +147,5 @@ bigimg:
 <span style="font-size: 14px;">
 Xinyu Zhao (赵欣宇): Technician (2025-2026); Ph.D. student at University of Gothenburg, Sweden<br>
 Qi Ru Soh: Exchange student (2026); NUS undergraduate, Singapore<br>
-Zhuo Chen: Undergraduate intern (2025-2026); Shanghai Jiao Tong University School of Medicine <br>
-Ping Li: Technician (2025-2026); Ph.D. student at Fudan University <br>
+Zhuo Chen (陈着): Undergraduate intern (2025-2026); Shanghai Jiao Tong University School of Medicine <br>
+Ping Li (李萍): Technician (2025-2026); Ph.D. student at Fudan University <br>

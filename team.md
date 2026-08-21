@@ -40,15 +40,15 @@ bigimg:
 
 <div style="display: flex; align-items: flex-start; font-size: 18px;">
   <div style="flex-shrink: 0; margin-right: 20px;">
-    <img src="/img/peopleimg/pingli.jpg" style="width: 100%; max-width: 200px;" />
+    <img src="/img/peopleimg/na.jpg" style="width: 100%; max-width: 200px;" />
   </div>
   <div style="flex-grow: 1;">
-    <strong>Ping Li (李萍)</strong><br>
+    <strong>Wenya Bian (边文娅)</strong><br>
     <span style="font-size: 16px;">
-      Research Technician<br>
+      Postdoctoral Fellow<br>
     </span>
     <span style="font-size: 14px;">
-      <br>Ping is a research technician in the lab with expertise in pharmacology, animal models and clinical pharmacy.
+      <br>.
     </span>
   </div></div>
 <hr>
@@ -148,3 +148,4 @@ bigimg:
 Xinyu Zhao (赵欣宇): Technician (2025-2026); Ph.D. student at University of Gothenburg, Sweden<br>
 Qi Ru Soh: Exchange student (2026); NUS undergraduate, Singapore<br>
 Zhuo Chen: Undergraduate intern (2025-2026); Shanghai Jiao Tong University School of Medicine <br>
+Ping Li: Technician (2025-2026); Ph.D. student at Fudan University <br>

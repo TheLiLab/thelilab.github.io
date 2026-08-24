@@ -48,7 +48,7 @@ bigimg:
       Postdoctoral Fellow<br>
     </span>
     <span style="font-size: 14px;">
-      <br>.
+      <br>Wenya obtained Ph.D from Fudan University, with expertise in microbiology and gene regulation.
     </span>
   </div></div>
 <hr>

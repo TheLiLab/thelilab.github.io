@@ -8,6 +8,10 @@ bigimg:
 - "/img/random_images/2024nature_penguin.png" : "Leap of faith: The best science images of 2024 picked by Nature [《信念一跃》by National Geographic/Bertie Gregory（我觉得它应该是被别的企鹅挤下去的）]"
 
 ---
+
+<strong>8/26/2026</strong><br>
+We have received funding from National Natural Science Foundation of China! It will support our research in chromatin dynamics in kidney fibrosis in the next 3 years.
+
 <strong>8/21/2026</strong><br>
 We held a farewell party for members who are going to move to new work places. See you soon in the future!
 

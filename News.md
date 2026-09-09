@@ -9,6 +9,9 @@ bigimg:
 
 ---
 
+<strong>9/9/2026</strong><br>
+New paper online! Our review manuscript has been published on JCI insight (<a href="https://doi.org/10.1172/jci.insight.206951" target="_blank">DOI</a>), first-authored by Xinchen and Zhuo!
+
 <strong>8/26/2026</strong><br>
 We have received funding from National Natural Science Foundation of China! It will support our research in chromatin dynamics in kidney fibrosis in the next 3 years.
 

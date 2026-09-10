@@ -42,13 +42,15 @@ bigimg:
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/0Wey93u1f5awT6Po8-4cEA" target="_blank">Link</a>)
 <br>
 
-- Mao, X.#, Chen, Z.#, Hwang, E. J., Liu, J., Huang, J., & <strong><u>Li, H.</u></strong> (2026). Spatial multiomics in biomedical research: advances beyond transcriptomics. <strong><u>JCI insight</u></strong>, 11(17), e206951. (<a href="https://doi.org/10.1172/jci.insight.206951" target="_blank">DOI</a>)
+- Mao, X.#, Chen, Z.#, Hwang, E. J., Liu, J., Huang, J., & <strong><u>Li, H.</u></strong> (2026). Spatial multiomics in biomedical research: advances beyond transcriptomics. <strong><u>JCI insight</u></strong>, 11(17), e206951. (<a href="https://doi.org/10.1172/jci.insight.206951" target="_blank">DOI</a>)<br>
+→	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/Icd4AuddzISoI9T5mt5VGQ" target="_blank">JCI系列官方</a>)
 <br>
 
 <hr>
 ## All Publications
 
-(26) Mao, X.#, Chen, Z.#, Hwang, E. J., Liu, J., Huang, J., & <strong><u>Li, H.</u></strong> (2026). Spatial multiomics in biomedical research: advances beyond transcriptomics. <strong><u>JCI insight</u></strong>, 11(17), e206951. (<a href="https://doi.org/10.1172/jci.insight.206951" target="_blank">DOI</a>)
+(26) Mao, X.#, Chen, Z.#, Hwang, E. J., Liu, J., Huang, J., & <strong><u>Li, H.</u></strong> (2026). Spatial multiomics in biomedical research: advances beyond transcriptomics. <strong><u>JCI insight</u></strong>, 11(17), e206951. (<a href="https://doi.org/10.1172/jci.insight.206951" target="_blank">DOI</a>)<br>
+→	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/Icd4AuddzISoI9T5mt5VGQ" target="_blank">JCI系列官方</a>)
 <br>
 
 (25) Baysoy, A.#, Tian, X.#, Renauer, P.#, Zhang, F.#, Bai, Z., Shi, H., Yang, M., Zhang, D., Liu, M., <strong><u>Li, H.</u></strong>, Tao, B., Enninful, A., Lu, Y., Gao, F., Wang, G., Zhang, W., Tran, T., Patterson, N. H., Sheng, J., … Fan, R. (2026). Large-scale, spatially resolved panoramic CRISPR screening in native tissue environments using Perturb-DBiT. <strong><u>Nature Biotechnology</u></strong>. (<a href="https://doi.org/10.1038/s41587-026-03127-y" target="_blank">DOI</a>)

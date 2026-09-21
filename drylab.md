@@ -3,7 +3,7 @@ layout: page
 title: Bioinformatics
 bigimg:
 
- - "/img/coverphotos/drylab_wsq.png" 
+ - "/img/coverphotos/xiaoba2.png" 
 
 ---
 

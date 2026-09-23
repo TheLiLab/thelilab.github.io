@@ -100,6 +100,21 @@ bigimg:
 
 <div style="display: flex; align-items: flex-start; font-size: 18px;">
   <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="/img/peopleimg/yuntaowu.jpg" style="width: 100%; max-width: 200px;" />
+  </div>
+  <div style="flex-grow: 1;">
+    <strong>Yuntao Wu (武云涛)</strong><br>
+    <span style="font-size: 16px;">
+      Master's student<br>
+    </span>
+    <span style="font-size: 14px;">
+      <br>Yuntao is a master's student at Shanghai Jiao Tong University School of Medicine major in clinical medicine, co-mentored by Prof. Jun Liu.
+    </span>
+  </div></div>
+<hr>
+
+<div style="display: flex; align-items: flex-start; font-size: 18px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
     <img src="/img/peopleimg/xinchenmao.jpg" style="width: 100%; max-width: 200px;" />
   </div>
   <div style="flex-grow: 1;">

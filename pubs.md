@@ -49,7 +49,7 @@ bigimg:
 <hr>
 ## All Publications
 
-(26) Mao, X.#, Chen, Z.#, Hwang, E. J., Liu, J., Huang, J., & <strong><u>Li, H.</u></strong> (2026). Spatial multiomics in biomedical research: advances beyond transcriptomics. <strong><u>JCI insight</u></strong>, 11(17), e206951. (<a href="https://doi.org/10.1172/jci.insight.206951" target="_blank">DOI</a>)<br>
+(26) <strong><u>Mao, X.#</u></strong>, <strong><u>Chen, Z.#</u></strong>, Hwang, E. J., Liu, J., Huang, J., & <strong><u>Li, H.</u></strong> (2026). Spatial multiomics in biomedical research: advances beyond transcriptomics. <strong><u>JCI insight</u></strong>, 11(17), e206951. (<a href="https://doi.org/10.1172/jci.insight.206951" target="_blank">DOI</a>)<br>
 →	中文媒体报道 (<a href="https://mp.weixin.qq.com/s/Icd4AuddzISoI9T5mt5VGQ" target="_blank">JCI系列官方</a>)
 <br>
 

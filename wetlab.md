@@ -30,12 +30,19 @@ Mouse kidney IRI surgery (JOVE): <a href="https://app.jove.com/v/52559/a-murine-
 <a href="https://teichlab.github.io/scg_lib_structs/methods_html/sci-RNA-seq_family.html#sci-RNA-seq3" target="_blank">Library structure</a><br>
 <hr>
 
-### Spatial multiomics sequencing
+### Spatial multiomics sequencing methods
 <a href="https://doi.org/10.1016/j.cell.2020.10.026" target="_blank">DBiT-seq (spatial-RNA-seq)</a><br>
 <a href="https://doi.org/10.1038/s41586-022-05094-1" target="_blank">Spatial-ATAC-seq</a><br>
 <a href="https://doi.org/10.1126/science.abg7216" target="_blank">Spatial-CUT&Tag</a><br>
 <a href="https://doi.org/10.1038/s41596-025-01145-9" target="_blank">Spatial-ATAC-RNA-seq and spatial-CUT&Tag-RNA-seq</a><br>
+<a href="https://www.nature.com/articles/s41586-025-09663-y" target="_blank">Spatial tri-omic ARP/CTRP-seq</a><br>
+<a href="https://www.nature.com/articles/s41587-026-03127-y" target="_blank">Spatial functional genomics (Perturb-DBiT)</a><br>
+<a href="https://www.nature.com/articles/s41592-025-02948-0" target="_blank">Spatial transcriptome+CODEX (DBiTplus)</a><br>
+<a href="https://www.nature.com/articles/s41592-026-03123-9" target="_blank">Spatial m6A-seq (m6A-ARTR-DBiT)</a><br>
+Spatial Hi-C (<a href="https://www.cell.com/cell/fulltext/S0092-8674(26)00871-8" target="_blank">1</a>)(<a href="https://www.nature.com/articles/s41592-026-03217-4" target="_blank">2</a>)(<a href="https://www.nature.com/articles/s41592-026-03218-3" target="_blank">3</a>)<br>
+<a href="https://www.nature.com/articles/s41586-025-09478-x" target="_blank">Spatial transcriptome+methylome</a><br>
 <a href="https://doi.org/10.1016/j.cell.2024.09.001" target="_blank">Patho-DBiT (spatial-RNA-seq in FFPE)</a><br>
+<a href="https://doi.org/10.1038/s41467-026-71576-9" target="_blank">epi-Patho-DBiT (spatial-ATAC-seq and spatial-CUT&Tag in FFPE)</a><br>
 <hr>
 
 ### About Illumina next-generation sequencing

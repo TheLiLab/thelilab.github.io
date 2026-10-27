@@ -9,6 +9,9 @@ bigimg:
 
 ---
 
+<strong>10/27/2026</strong><br>
+We have received funding from Shanghai Jiao Tong University School of Medicine Boyuan Basic Research Project! It will support our research in spatial and single-nucleus multiomics technology development in the next 3 years.
+
 <strong>9/9/2026</strong><br>
 New paper online! Our review manuscript has been published on JCI insight (<a href="https://doi.org/10.1172/jci.insight.206951" target="_blank">DOI</a>), first-authored by Xinchen and Zhuo!
 
